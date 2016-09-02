@@ -1,4 +1,4 @@
-#!/usr/local/bin/python3
+#!/opt/rh/python33/root/usr/bin/python3
 counter = 0
 while counter < 100:
     if counter == 4:
