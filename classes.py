@@ -25,3 +25,5 @@ setattr(student1, 'lunch', "yes")
 print(hasattr(student1, "lunch"))
 
 print(getattr(student1, "age"))
+#delete attribute
+delattr(student1, "name")

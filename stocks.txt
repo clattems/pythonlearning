@@ -1,0 +1,794 @@
+Enter your stock: <!DOCTYPE html><html><head><script>(function(){(function(){function e(a){this.t={};this.tick=function(a,c,b){var d=void 0!=b?b:(new Date).getTime();this.t[a]=[d,c];if(void 0==b)try{window.console.timeStamp("CSI/"+a)}catch(e){}};this.tick("start",null,a)}var a,d;window.performance&&(d=(a=window.performance.timing)&&a.responseStart);var f=0<d?new e(d):new e;window.jstiming={Timer:e,load:f};if(a){var c=a.navigationStart;0<c&&d>=c&&(window.jstiming.srt=d-c)}if(a){var b=window.jstiming.load;0<c&&d>=c&&(b.tick("_wtsrt",void 0,c),b.tick("wtsrt_","_wtsrt",
+d),b.tick("tbsd_","wtsrt_"))}try{a=null,window.chrome&&window.chrome.csi&&(a=Math.floor(window.chrome.csi().pageT),b&&0<c&&(b.tick("_tbnd",void 0,window.chrome.csi().startE),b.tick("tbnd_","_tbnd",c))),null==a&&window.gtbExternal&&(a=window.gtbExternal.pageT()),null==a&&window.external&&(a=window.external.pageT,b&&0<c&&(b.tick("_tbnd",void 0,window.external.startE),b.tick("tbnd_","_tbnd",c))),a&&(window.jstiming.pt=a)}catch(g){}})();})();
+</script><title>Facebook Inc: NASDAQ:FB quotes &amp; news - Google Finance</title><meta name="Description" content="Get detailed financial information on Facebook Inc (NASDAQ:FB) including real-time stock quotes, historical charts &amp; financial news, all for free!"><meta http-equiv="X-UA-Compatible" content="IE=10"><link rel="canonical" href="http://www.google.com/finance?cid=296878244325128"><link rel="stylesheet" type="text/css" href="/finance/f/finance_us-1489929081.css"><link rel="stylesheet" type="text/css" href="/_/scs/finance-static/_/ss/k=finance.a.-1ad9g7dkeydo6.L.X.O/d=0/rs=AGHGApEUgACXqD4VPp-NLv9z8Y70NzrMQA"><link rel="icon" type="image/vnd.microsoft.icon" href="/finance/favicon.ico"><style>#gbar,#guser{font-size:13px;padding-right:8px;padding-top:4px !important;}#gbar{padding-left:8px;height:22px}#guser{padding-bottom:7px !important;text-align:right}.gbh,.gbd{border-top:1px solid #c9d7f1;font-size:1px}.gbh{height:0;position:absolute;top:24px;width:100%}@media all{.gb1{height:22px;margin-right:.5em;vertical-align:top}#gbar{float:left}}a.gb1,a.gb4{text-decoration:underline !important}a.gb1,a.gb4{color:#00c !important}.gbi .gb4{color:#dd8e27 !important}.gbf .gb4{color:#900 !important}
+</style><script></script><script>
+      function _rpt() {}
+      function _tck() {}
+    </script><script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-40765809-1', {
+      'allowLinker': true,
+      'cookiePath': '/finance'
+    });
+    ga('send', 'pageview');
+    </script></head><body><div class=fjfe-bodywrapper><div id=fjfe-real-body class=g-doc><input type="text" name="hist_state" id="hist_state" style="display:none;"><iframe id="hist_frame" name="hist_frame" class=invfr tabindex="-1"></iframe><iframe src="/_/scs/finance-static/_/js/k=finance.a.en_US.0md5hz5pgeA.O/m=b/rt=h/d=0/rs=AGHGApHi_3j1v_Z6n816dUrW-04N4o1Vbg" class=invfr tabindex="-1"></iframe><div id=gbar><nobr><a class=gb1 href="https://www.google.com/webhp?tab=ew">Search</a> <a class=gb1 href="http://www.google.com/imghp?hl=en&tab=ei">Images</a> <a class=gb1 href="https://maps.google.com/maps?hl=en&tab=el">Maps</a> <a class=gb1 href="https://play.google.com/?hl=en&tab=e8">Play</a> <a class=gb1 href="https://www.youtube.com/?tab=e1">YouTube</a> <a class=gb1 href="https://news.google.com/nwshp?hl=en&tab=en">News</a> <a class=gb1 href="https://mail.google.com/mail/?tab=em">Gmail</a> <a class=gb1 href="https://drive.google.com/?tab=eo">Drive</a> <a class=gb1 style="text-decoration:none" href="https://www.google.com/intl/en/options/"><u>More</u> &raquo;</a></nobr></div><div id=guser width=100%><nobr><span id=gbn class=gbi></span><span id=gbf class=gbf></span><span id=gbe></span><a  href="http://www.google.com/support/finance?hl=en" class=gb4>Help</a> | <a target=_top id=gb_70 href="https://accounts.google.com/ServiceLogin?service=finance&passive=1209600&continue=https://www.google.com/finance?q%3DFB&followup=https://www.google.com/finance?q%3DFB" class=gb4>Sign in</a></nobr></div><div class=gbh style=left:0></div><div class=gbh style=right:0></div><div id=fjfe-click-wrapper><script>
+(function() {
+  var l = window.location;
+  var q = l.search ? l.search.substr(1) : '';
+  var h = l.hash ? l.hash.substr(1) : '';
+  var p = '/finance';
+  var ss = 'stockscreener';
+  var conn = window.history && window.history.pushState ? '/' : '#';
+  if (l.pathname == p + '/' + ss) {
+    if (h) l.href = p + conn + ss + '?' + q + '&' + h;
+  } else if (l.pathname != p && h) {
+    l.href = p + l.hash;
+  }
+  if (h) {
+document.getElementById('fjfe-click-wrapper').style.display = 'none';
+  }
+})();
+</script><div id=gf-head class="g-section g-tpl-75-25 g-split"><div class="g-unit g-first"><div class=fjfe-logo><a href="/finance/?ei=ZOvMV4jzOoHTmAHl3ZnIBg"><img src="/finance/f/logo_material-4224265490.png" alt="Google Finance"></a></div><div id=gf-search class=fjfe-search><form method="get" action="/finance" autocomplete="off"><input class=fjfe-searchbox-input name=q type=text tabindex=1 value="NASDAQ:FB"></input><span class=fjfe-searchbox-button-wrapper><span class=fjfe-searchbox-button-wrapper2><input class=fjfe-searchbox-button type=submit tabindex=2 value="Get quotes"></input></span></span><input type=hidden name="ei" value="ZOvMV4jzOoHTmAHl3ZnIBg"></input></form></div></div><div class="g-unit fjfe-promo"><div id="ad2-target" class="id-ad2-target"></div></div></div><div class=elastic><div id=app class="g-section g-tpl-left-11p4em"><div class="g-unit g-first"><div id=gf-nav><div class=fjfe-nav-nav><ul class=fjfe-nav id=navmenu><li class="fjfe-nav-expanded fjfe-nav-selected">Company<li class=fjfe-nav-sub><div>Summary</div><li class=fjfe-nav-sub><a href="/finance/company_news?q=NASDAQ:FB&amp;ei=ZOvMV4jzOoHTmAHl3ZnIBg">News</a><li class=fjfe-nav-sub><a href="/finance/option_chain?q=NASDAQ:FB&amp;ei=ZOvMV4jzOoHTmAHl3ZnIBg">Option chain</a><li class=fjfe-nav-sub><a href="/finance/related?q=NASDAQ:FB&amp;ei=ZOvMV4jzOoHTmAHl3ZnIBg">Related companies</a><li class=fjfe-nav-sub><a href="/finance/historical?q=NASDAQ:FB&amp;ei=ZOvMV4jzOoHTmAHl3ZnIBg">Historical prices</a><li class=fjfe-nav-sub><a href="/finance?q=NASDAQ:FB&amp;fstype=ii&amp;ei=ZOvMV4jzOoHTmAHl3ZnIBg">Financials</a><li class=fjfe-nav-item><a href="/finance?ei=ZOvMV4jzOoHTmAHl3ZnIBg"><div>Markets</div></a><li class=fjfe-nav-item><a href="/finance/market_news?ei=ZOvMV4jzOoHTmAHl3ZnIBg"><div>News</div></a><li class=fjfe-nav-item><a href="/finance/portfolio?action=view&amp;ei=ZOvMV4jzOoHTmAHl3ZnIBg"><div>Portfolios</div></a><li class=fjfe-nav-item><a href="/finance/stockscreener?ei=ZOvMV4jzOoHTmAHl3ZnIBg"><div>Stock screener</div></a><li class=fjfe-nav-item><a href="/finance/domestic_trends?ei=ZOvMV4jzOoHTmAHl3ZnIBg"><div>Google Domestic Trends</div></a></ul></div><div class="fjfe-recentquotes fjfe-recentquotes-noquote"><h4>Recent Quotes <span class="fjfe-recentquotes-duration">(<a href="//www.google.com/history/optout?hl=en">30 days</a>)</span></h4><div class=fjfe-recentquotes-noquote-notification>You have no recent quotes</div><div class=fjfe-recentquotes-quotes><div class="fjfe-toggle fjfe-toggle-button"><span class=fjfe-chg-toggle>chg</span> | <span class=fjfe-perc-toggle>%</span></div><div class=fjfe-table-div><table class=fjfe-recentquotes-table id=rq width=100%></table></div></div></div></div><script>var _cleardot = 'data:image\/gif;base64,R0lGODlhAQABAIAAAP\/\/\/\/\/\/\/yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw\x3d\x3d';
+    var google = google || {};
+    google.finance = google.finance || {};
+    google.finance.gce = false ;</script><script src="/finance/f/sfe-opt-3379333646.js"></script><script>
+      _regOnLoad = function(f) {
+        if (document.readyState == 'complete') {
+          f && f();
+        } else {
+          // Window.attachEvent() for IE8 and below compatability.
+          var addEventFunction = window.attachEvent ||
+              window.addEventListener || function(ignored, f) { f(); };
+          var event = window.attachEvent ? 'onload' : 'load';
+          f && addEventFunction(event, f);
+        }
+      };
+    
+      google.finance.renderRecentQuotes = function() {};
+    </script></div><div class=g-unit id=gf-viewc><div class=fjfe-content>
+<script>
+(function() {
+if (window['_finance_chart']) {
+var el = document.getElementById('chart_anchor');
+if (el) {
+el.innerHTML = '';
+}
+setFinanceChart(null);
+}
+})();
+var _ticker = 'NASDAQ:FB';
+var _slHeight = 221;
+var _companyName = 'Facebook Inc';
+var _companyPageNewsTab = '0';
+var _displayVolume = true;
+setCompanyId(296878244325128);
+_s_Store._numToDisplay = 6;
+_comparison_charts_Store._numToDisplay = 8;
+_comparison_charts_Store._allowMultiTimezoneCompare = true;
+function onCompanyLoad() {
+_external_target = "";
+_emitFlashChartOnLoad(
+"/finance/s/n-VxNKK74DU/chart9.swf?hl=en&gl=us",
+_ticker, "chart_anchor", "market-data-div",
+_chartConfigObject);
+google.finance.onCompanyLoad();
+_initAutoFocus();
+if (google.finance.initTechnicals) {
+google.finance.initTechnicals(true);
+}
+}
+</script>
+<div class=g-wrap>
+<div class="g-section sfe-break-bottom-8">
+<div class="g-tpl-67-33 g-split hdg top appbar-hide" id=companyheader>
+<div class="g-unit g-first"><h3>Facebook Inc&nbsp;&nbsp;</h3>(Public, NASDAQ:FB)&nbsp;&nbsp;
+<a href="/finance/portfolio?action=add&amp;addticker=NASDAQ%3AFB&ei=ZOvMV4jzOoHTmAHl3ZnIBg" class=norm>Watch this stock</a>
+&nbsp;
+</div><div class="g-unit norm">Find more results for<b>
+<a href="?noIL=1&q=FB&ei=ZOvMV4jzOoHTmAHl3ZnIBg" id=searchmore>FB</a></b>
+</div>
+</div>
+</div>
+
+<script>
+_ac_register(function (input, event) {
+if (input.id == 'add_comparison_symbol') {
+_comparison_charts_Store.baseTicker = "NASDAQ:FB";
+return _comparison_charts_Store;
+}
+});
+var _prefs=_prefs||{};_prefs.hash="";
+_prefs.feeds=_prefs.feeds||{};
+_prefs.ch=_prefs.ch||{};
+_prefs.ch_compare=_prefs.ch_compare||{};
+var _chartConfigObject;
+var _cleardot;
+var _companyName;
+var _eventid = 'ZOvMV4jzOoHTmAHl3ZnIBg';
+var _expid;
+var _external_target;
+var _localDomain = 'www.google.com';
+var _minZoomDays;
+var _minZoomDaysNoIntraDay;
+var _prefs;
+var _ticker;
+var _urlSuffix;
+var google = google || {};
+google.finance = google.finance || {};
+google.finance.data = {common:{rq:{ct:""},up:"chg",down:"chr",linktargetInternal:"",hash:"",dfp:"ad-g.doubleclick.net/adi/com.gf.company/technology;fe=nasdaq;ft=fb;fm=large;ssl=1;dcopt=ist;myd=ad;sz=300x250;tile=1",streaming:[{cid:"296878244325128",s:"FB",e:"NASDAQ"},{cid:"358464",s:"MSFT",e:"NASDAQ"},{cid:"694653",s:"GOOGL",e:"NASDAQ"},{cid:"32086821185414",s:"TWTR",e:"NYSE"},{cid:"658890",s:"YHOO",e:"NASDAQ"},{cid:"663286",s:"MEET",e:"NASDAQ"},{cid:"664517",s:"SINA",e:"NASDAQ"},{cid:"13210501",s:"LNKD",e:"NYSE"},{cid:"662654",s:"EBAY",e:"NASDAQ"},{cid:"655621",s:"TWX",e:"NYSE"},{cid:"120222725170627",s:"WB",e:"NASDAQ"}],dfp_companion:"ad-g.doubleclick.net/adi/com.gf.company/technology;fe=nasdaq;ft=fb;fm=large;ssl=1;dcopt=ist;myd=ad2;sz=33x33;tile=2"},company:{news:{clusters:[{nrel:2,idx:0,id:"52779198842409",lead_story_url:"http://www.profitconfidential.com/stock/3-bullish-reasons-facebook-inc-stock-fb-could-soar/",a:[{t:"3 Bullish Reasons Facebook Inc. Stock (FB) Could Soar",u:"http://www.profitconfidential.com/stock/3-bullish-reasons-facebook-inc-stock-fb-could-soar/",s:"Profit Confidential",sp:"To the average consumer, Facebook Inc (NASDAQ:FB) is just a social media app that connects friends and family. But to investors, FB stock is a way of getting rich on the future of technology and media.",d:"Sep 3, 2016",tt:"1472893344",usg:"AFQjCNF61CUcUx0hMUXLeQGav6VGAZNDfQ",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://www.profitconfidential.com/stock/3-bullish-reasons-facebook-inc-stock-fb-could-soar/\u0026cid=52779198842409\u0026ei=9urMV9DbOof4mAHIxo2ICA\u0026usg=AFQjCNFWUwk9viyUZM-FmBeWGorZfYgoKw"}],lead_story_doc_id:"9092551031188658217"},{nrel:5,idx:1,id:"52779199179201",lead_story_url:"http://www.thecerbatgem.com/2016/09/04/facebook-inc-fb-position-reduced-by-pennsylvania-trust-co/",a:[{t:"Facebook Inc. (FB) Position Reduced by Pennsylvania Trust Co",u:"http://www.thecerbatgem.com/2016/09/04/facebook-inc-fb-position-reduced-by-pennsylvania-trust-co/",s:"The Cerbat Gem",sp:"Facebook logo Pennsylvania Trust Co lowered its position in shares of Facebook Inc. (NASDAQ:FB) by 9.3% during the second quarter, according to its most recent disclosure with the Securities and Exchange Commission (SEC).",d:"6 hours ago",tt:"1473025500",usg:"AFQjCNGnNbBSwBYvxH0PT5mkybpkqFTZ4A",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://www.thecerbatgem.com/2016/09/04/facebook-inc-fb-position-reduced-by-pennsylvania-trust-co/\u0026cid=52779199179201\u0026ei=9urMV9DbOof4mAHIxo2ICA\u0026usg=AFQjCNF3Bswz9fKXjXc2iedByLbS9n54Yw"},{t:"Facebook Inc. (FB) Receives \u0026quot;Outperform\u0026quot; Rating from William Blair",u:"http://baseballnewssource.com/markets/facebook-inc-fb-receives-outperform-rating-from-william-blair/88347/",s:"BBNS",sp:"Facebook Inc. logo William Blair reissued their outperform rating on shares of Facebook Inc. (NASDAQ:FB) in a research report released on Sunday morning.",d:"9 hours ago",tt:"1473012675",usg:"AFQjCNHHvWt0QnrU1v7zhdsEbxJzN2nAZA",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://baseballnewssource.com/markets/facebook-inc-fb-receives-outperform-rating-from-william-blair/88347/\u0026cid=52779199179201\u0026ei=9urMV9DbOof4mAHIxo2ICA\u0026usg=AFQjCNG1ld5TyrhkommCwNJhxJubJhuumQ"}],lead_story_doc_id:"14501780252523826170"},{nrel:1,idx:2,id:"52779193342710",lead_story_url:"http://www.fool.com/investing/2016/08/29/is-facebook-inc-the-next-big-gaming-company.aspx",a:[{t:"Is Facebook Inc the Next Big Gaming Company?",u:"http://www.fool.com/investing/2016/08/29/is-facebook-inc-the-next-big-gaming-company.aspx",s:"Motley Fool",sp:"Facebook (NASDAQ:FB) may not be developing its own games, but they are the main driver behind its payments and fees revenue -- which has declined over the past several years to just 3% of sales as of the most recently reported quarter.",d:"Aug 29, 2016",tt:"1472484150",usg:"AFQjCNESToC-D-K1UTfrP46C0x0Dn_RWwQ",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://www.fool.com/investing/2016/08/29/is-facebook-inc-the-next-big-gaming-company.aspx\u0026cid=52779193342710\u0026ei=9urMV9DbOof4mAHIxo2ICA\u0026usg=AFQjCNGWmTxIM5UTSFDuYoVsGwyGiHaGNQ"}],lead_story_doc_id:"5488963394947258300"},{nrel:4,idx:3,id:"52779187797166",lead_story_url:"http://www.usnews.com/investing/articles/2016-08-18/twitter-inc-facebook-inc-twtr-fb-quietly-destroying",a:[{t:"Where Twitter Inc (TWTR) Is Quietly Destroying Facebook Inc (FB)",u:"http://www.usnews.com/investing/articles/2016-08-18/twitter-inc-facebook-inc-twtr-fb-quietly-destroying",s:"U.S. News \u0026 World Report",sp:"By all conventional measures, the two companies aren\u0026#39;t even in the same league: Last quarter, Facebook grew its user base by 15 percent to 1.7 billion; Twitter\u0026#39;s rose 3 percent to 310 million.",d:"Aug 23, 2016",tt:"1471960618",usg:"AFQjCNGHnvD0JQ0kQk9aBDqSbz8kS98JfQ",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://www.usnews.com/investing/articles/2016-08-18/twitter-inc-facebook-inc-twtr-fb-quietly-destroying\u0026cid=52779187797166\u0026ei=9urMV9DbOof4mAHIxo2ICA\u0026usg=AFQjCNGtF3jrJPXJjnJlvazVj5at7SdYWw"},{t:"Can Twitter Exploit \u0026quot;News\u0026quot; Advantage Over Facebook?",u:"http://www.seeitmarket.com/twitter-exploit-news-advantage-over-facebook-15996/",s:"See It Market (blog)",sp:"It turns out that even in its fledgling state, Twitter Inc. (NYSE:TWTR) seems to have an advantage over Facebook Inc. (NASDAQ:FB) in one critical area: The News.",d:"Aug 23, 2016",tt:"1471981950",usg:"AFQjCNElupTtvLvkRkj2IwxFEDMKBdmjPA",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://www.seeitmarket.com/twitter-exploit-news-advantage-over-facebook-15996/\u0026cid=52779187797166\u0026ei=9urMV9DbOof4mAHIxo2ICA\u0026usg=AFQjCNFNVeTlOTd9cG4XN7xFv8nDkQ_iHg"}],lead_story_doc_id:"5719378426296233344"},{nrel:2164,idx:4,id:"52779195914619",lead_story_url:"http://www.valuewalk.com/2016/09/zuckerberg-facebook-inc-fb-stock-charity/",a:[{t:"Zuckerberg Sells Facebook Stock For Charity Just Before Satellite Explosion ...",u:"http://www.valuewalk.com/2016/09/zuckerberg-facebook-inc-fb-stock-charity/",s:"ValueWalk",sp:"Mark Zuckerberg is a giving kind of guy with Facebook Inc (NASDAQ:FB) stock. On the day Facebook\u0026#39;s satellite exploded while in the care of Elon Musk\u0026#39;s SpaceX, now a division of electric car manufacturer Tesla, Facebook stock was active.",d:"Sep 2, 2016",tt:"1472833800",usg:"AFQjCNFAcxJTYbMHFvggQCG1Ty2tj_3slQ",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://www.valuewalk.com/2016/09/zuckerberg-facebook-inc-fb-stock-charity/\u0026cid=52779195914619\u0026ei=9urMV9DbOof4mAHIxo2ICA\u0026usg=AFQjCNFkvQqUNl4KassOG6iYTjEDS9XyrA"},{t:"Facebook Inc (FB)\u0026#39;s Internet Satellite Blown to Smithereens",u:"http://learnbonds.com/130955/facebook-internet-satellite-explosion/",s:"LearnBonds",sp:"On Thursday, a SpaceX rocket exploded at a launch site in Cape Canaveral, destroying a satellite Facebook Inc (NASDAQ:FB) planned to launch into orbit on Saturday, The Wall Street Journal reported.",d:"Sep 2, 2016",tt:"1472818503",usg:"AFQjCNHqy07kUftOa6vNpVFBp7oOFLAwnQ",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://learnbonds.com/130955/facebook-internet-satellite-explosion/\u0026cid=52779195914619\u0026ei=9urMV9DbOof4mAHIxo2ICA\u0026usg=AFQjCNEb4wmB_K-Z-vjCxHZdbJHw2Uy2GQ"},{t:"SpaceX Rocket Blast Destroys Satellite for Facebook Project",u:"http://www.bloomberg.com/news/articles/2016-09-01/spacex-falcon-9-rocket-explodes-on-launch-pad-at-cape-canaveral",s:"Bloomberg",sp:"A SpaceX rocket blew up on a launchpad in Florida, marking the second loss of a spacecraft by Elon Musk\u0026#39;s venture in a little more than a year and hobbling a Facebook Inc. initiative to spread internet access across Africa. The accident occurred ...",d:"Sep 1, 2016",tt:"1472736949",usg:"AFQjCNGazKcrBUS-ayLoZeEx7ypRgCmohA",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://www.bloomberg.com/news/articles/2016-09-01/spacex-falcon-9-rocket-explodes-on-launch-pad-at-cape-canaveral\u0026cid=52779195914619\u0026ei=9urMV9DbOof4mAHIxo2ICA\u0026usg=AFQjCNHxm__Xgtco08xNxowJx7dkjQVX9Q"}],lead_story_doc_id:"15297064587261386930"},{nrel:223,idx:5,id:"52779190012974",lead_story_url:"http://investorplace.com/2016/08/facebook-inc-fb-stock-shares-whatsapp/",a:[{t:"Facebook Inc (FB) About-Faces on WhatsApp Privacy",u:"http://investorplace.com/2016/08/facebook-inc-fb-stock-shares-whatsapp/",s:"Investorplace.com",sp:"Specifically, WhatsApp is going to share users\u0026#39; phone numbers, device information and metadata with Facebook. FB has said the reason for doing this is to improve advertising on the social network and to improve friend suggestions through phone contacts.",d:"Aug 27, 2016",tt:"1472299200",usg:"AFQjCNGzyFHKtI7GMlDAn-2rM2T1a92zSQ",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://investorplace.com/2016/08/facebook-inc-fb-stock-shares-whatsapp/\u0026cid=52779190012974\u0026ei=9urMV9DbOof4mAHIxo2ICA\u0026usg=AFQjCNEryd2JfyYMPP_yoYgyK89ZwPm7OA"},{t:"European Regulators Scrutinize WhatsApp Data-Sharing Plan With Facebook",u:"http://www.wsj.com/articles/european-regulators-scrutinize-whatsapp-data-sharing-plan-with-facebook-1472506175",s:"Wall Street Journal",sp:"European privacy regulators are investigating messaging service WhatsApp\u0026#39;s plan to share user information including phone numbers with its parent, Facebook Inc., adding to pressure on both sides of the Atlantic over the social media firm\u0026#39;s privacy ...",d:"Aug 29, 2016",tt:"1472506214",usg:"AFQjCNF9ZxLzTmGLn_GFdrbZCM4s7nq6fQ",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://www.wsj.com/articles/european-regulators-scrutinize-whatsapp-data-sharing-plan-with-facebook-1472506175\u0026cid=52779190012974\u0026ei=9urMV9DbOof4mAHIxo2ICA\u0026usg=AFQjCNHVFzBGHngM5jnXbCLXb5jC1m34SQ"},{t:"WhatsApp sharing user data with Facebook Inc (FB) to get better friends ...",u:"http://theusacommerce.com/2016/08/28/whatsapp-sharing-user-data-with-facebook-inc-fb-to-get-better-friends-suggestions/",s:"The USA Commerce",sp:"WhatsApp reportedly have unveiled plenty of updates to its privacy policy and T\u0026amp;Cs, as the company said in a statement that it\u0026#39;s set to start testing ways for businesses to communicate with its users later this year, and it will also begin pushing ...",d:"Aug 28, 2016",tt:"1472354549",usg:"AFQjCNFQlLuQUOUNS6rdNGjvnQMTDIAesA",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://theusacommerce.com/2016/08/28/whatsapp-sharing-user-data-with-facebook-inc-fb-to-get-better-friends-suggestions/\u0026cid=52779190012974\u0026ei=9urMV9DbOof4mAHIxo2ICA\u0026usg=AFQjCNHbXzvhZfAhwyxM1pUJX3Xxs_ABOA"}],lead_story_doc_id:"11272175678127398997"},{nrel:20,idx:6,id:"52779197224057",lead_story_url:"http://business.financialpost.com/fp-tech-desk/personal-tech/facebook-inc-users-cant-sue-as-group-over-advertising-data-use-u-s-judge-rules",a:[{t:"Facebook Inc users can\u0026#39;t sue as group over advertising data use, U.S. judge rules",u:"http://business.financialpost.com/fp-tech-desk/personal-tech/facebook-inc-users-cant-sue-as-group-over-advertising-data-use-u-s-judge-rules",s:"Financial Post",sp:"Facebook Inc. defeated a bid for a group lawsuit claiming the company illegally gave its users\u0026#39; personal information to advertisers.",d:"Sep 2, 2016",tt:"1472850000",usg:"AFQjCNHQlwAn52nC_7Bi80DCdSYBqmosNA",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://business.financialpost.com/fp-tech-desk/personal-tech/facebook-inc-users-cant-sue-as-group-over-advertising-data-use-u-s-judge-rules\u0026cid=52779197224057\u0026ei=9urMV9DbOof4mAHIxo2ICA\u0026usg=AFQjCNESbS0s6o1Wu4zEVvbu8GNGsaABTQ"},{t:"Facebook Users Can\u0026#39;t Sue as Group Over Ad Data Use",u:"http://www.bloomberg.com/news/articles/2016-09-02/facebook-users-ruled-too-varied-to-pursue-group-privacy-lawsuit",s:"Bloomberg",sp:"Facebook Inc. defeated a bid for a group lawsuit claiming the company illegally gave its users\u0026#39; personal information to advertisers, with a judge ruling the plaintiffs didn\u0026#39;t have enough in common to pursue a class action.",d:"Sep 2, 2016",tt:"1472845682",usg:"AFQjCNFd00tCptpAujvvhHNw2rfLuVjuzQ",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://www.bloomberg.com/news/articles/2016-09-02/facebook-users-ruled-too-varied-to-pursue-group-privacy-lawsuit\u0026cid=52779197224057\u0026ei=9urMV9DbOof4mAHIxo2ICA\u0026usg=AFQjCNGSLOwQzejzJGxMSIBRnsDV9IXV_g"}],lead_story_doc_id:"6857645974811001899"},{idx:7,id:"0",lead_story_url:"http://investorplace.com/2016/09/facebook-fb-stock-social-media-nasdaq/",a:[{t:"Facebook Inc (FB) Is Hands Down the Best Advertising Play",u:"http://investorplace.com/2016/09/facebook-fb-stock-social-media-nasdaq/",s:"Investorplace.com",sp:"As of now, FB has built a social media empire that includes Facebook, Instagram, Messenger, WhatsApp and Oculus. It has continued to execute on these various ventures, growing users as well as revenue.",d:"Sep 1, 2016",tt:"1472744025",usg:"AFQjCNGa0QNYW2BTAkysjn5AOBQiwX5mzA",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://investorplace.com/2016/09/facebook-fb-stock-social-media-nasdaq/\u0026cid=0\u0026ei=9urMV9DbOof4mAHIxo2ICA\u0026usg=AFQjCNGnSWi10sQsSmm_tgXvmRzact2N9w"}],lead_story_doc_id:"12348315497398435432"},{nrel:155,idx:8,id:"52779195476115",lead_story_url:"http://marketexclusive.com/facebook-inc-nasdaqfb-adds-pinch-zoom-feature-instagram/26038/",a:[{t:"Facebook Inc (NASDAQ:FB) Adds A Pinch To Zoom Feature On Instagram",u:"http://marketexclusive.com/facebook-inc-nasdaqfb-adds-pinch-zoom-feature-instagram/26038/",s:"Market Exclusive",sp:"Facebook Inc (NASDAQ:FB) has finally launched a long overdue pinch-to-zoom feature for its Instagram app. The pinch-to-zoom feature was one of the most requested features for Instagram but Facebook has taken its time before finally answering the\u0026nbsp;...",d:"Sep 1, 2016",tt:"1472731875",usg:"AFQjCNGpfX8glzJDKH--cPOroEu6ReKilw",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://marketexclusive.com/facebook-inc-nasdaqfb-adds-pinch-zoom-feature-instagram/26038/\u0026cid=52779195476115\u0026ei=9urMV9DbOof4mAHIxo2ICA\u0026usg=AFQjCNHDgCNkZJewfbzn686fepVH8TXMVw"},{t:"Facebook Inc: Instagram Finally Acquiesces to Your Basic Pinch-to-Zoom Needs (FB)",u:"http://investorplace.com/2016/08/instagram-snapchat-facebook-inc-fb-stock/",s:"Investorplace.com",sp:"In today\u0026#39;s &#8220;what took so long??&#8221; news, Facebook Inc (NASDAQ:FB) property Instagram announced that it\u0026#39;s finally bringing pinch-to-zoom to its app.",d:"Aug 31, 2016",tt:"1472675175",usg:"AFQjCNF4wY-xyBpCekwqpDk4i3xODuoJXQ",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://investorplace.com/2016/08/instagram-snapchat-facebook-inc-fb-stock/\u0026cid=52779195476115\u0026ei=9urMV9DbOof4mAHIxo2ICA\u0026usg=AFQjCNGpMq5WX8DdStgonwewhOTL8rdt2w"}],lead_story_doc_id:"5911643754290672040"},{nrel:37,idx:9,id:"52779196970359",lead_story_url:"http://www.thecountrycaller.com/53616-facebook-inc-instagram-finally-brings-zoom-for-pictures/",a:[{t:"Facebook Inc Instagram Finally Brings Zoom For Pictures",u:"http://www.thecountrycaller.com/53616-facebook-inc-instagram-finally-brings-zoom-for-pictures/",s:"TCC",sp:"Facebook Inc. (NASDAQ:FB) Instagram has finally introduced the zoom feature which lets you zoom into your image and have a closer look at it.",d:"Sep 2, 2016",tt:"1472816925",usg:"AFQjCNFRaqIPqwlPO1d5xNj3Mx9H1lkhcw",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://www.thecountrycaller.com/53616-facebook-inc-instagram-finally-brings-zoom-for-pictures/\u0026cid=52779196970359\u0026ei=9urMV9DbOof4mAHIxo2ICA\u0026usg=AFQjCNHYoyqd9zH3jyeAArVnnV4vf8ttzw"}],lead_story_doc_id:"13081468950697627342"},{nrel:20,idx:10,id:"52779196443206",lead_story_url:"http://www.thecerbatgem.com/2016/09/02/facebook-inc-fb-ceo-mark-zuckerberg-sells-755239-shares/",a:[{t:"Facebook Inc. (FB) CEO Mark Zuckerberg Sells 755239 Shares",u:"http://www.thecerbatgem.com/2016/09/02/facebook-inc-fb-ceo-mark-zuckerberg-sells-755239-shares/",s:"The Cerbat Gem",sp:"Facebook logo Facebook Inc. (NASDAQ:FB) CEO Mark Zuckerberg sold 755,239 shares of the firm\u0026#39;s stock in a transaction that occurred on Wednesday, August 31st.",d:"Sep 2, 2016",tt:"1472814900",usg:"AFQjCNFgYQv39aDqmvPgpJ_mUfK-zH6frg",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://www.thecerbatgem.com/2016/09/02/facebook-inc-fb-ceo-mark-zuckerberg-sells-755239-shares/\u0026cid=52779196443206\u0026ei=9urMV9DbOof4mAHIxo2ICA\u0026usg=AFQjCNEc624r8HKbOcgnYu2HJpKTKN7f5g"},{t:"Facebook Inc (FB) COB and CEO Mark Zuckerberg Sold $95 million of Shares",u:"http://www.gurufocus.com/news/439995/facebook-inc-fb-cob-and-ceo-mark-zuckerberg-sold-95-million-of-shares",s:"GuruFocus.com",sp:"COB and CEO of Facebook Inc (NASDAQ:FB) Mark Zuckerberg sold 755,239 shares of FB on 08/31/2016 at an average price of $125.79 a share.",d:"Sep 2, 2016",tt:"1472782500",usg:"AFQjCNGGDzd1nrZCbwlMDHlIQIcCwaJO_w",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://www.gurufocus.com/news/439995/facebook-inc-fb-cob-and-ceo-mark-zuckerberg-sold-95-million-of-shares\u0026cid=52779196443206\u0026ei=9urMV9DbOof4mAHIxo2ICA\u0026usg=AFQjCNEJfAnNI2jgxY2VD5NHz-AGXkPJeA"},{t:"Facebook Inc. (FB) Director Jan Koum Sells 566668 Shares",u:"http://baseballnewssource.com/markets/facebook-inc-fb-director-jan-koum-sells-566668-shares/86587/",s:"BBNS",sp:"Facebook logo Facebook Inc. (NASDAQ:FB) Director Jan Koum sold 566,668 shares of Facebook stock in a transaction that occurred on Tuesday, August 30th.",d:"Sep 2, 2016",tt:"1472814225",usg:"AFQjCNHPc64aqfEq4OwYv0D90UPiR_v-bQ",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://baseballnewssource.com/markets/facebook-inc-fb-director-jan-koum-sells-566668-shares/86587/\u0026cid=52779196443206\u0026ei=9urMV9DbOof4mAHIxo2ICA\u0026usg=AFQjCNHdLTHtd9lcvNejL2R05MeYGKB7Jg"}],lead_story_doc_id:"10080605610908735218"},{nrel:13,idx:11,id:"52779188506624",lead_story_url:"http://www.fool.com/investing/2016/08/24/how-important-is-ad-revenue-to-facebook.aspx",a:[{t:"How Important Is Ad Revenue to Facebook Inc.?",u:"http://www.fool.com/investing/2016/08/24/how-important-is-ad-revenue-to-facebook.aspx",s:"Motley Fool",sp:"Much like its larger tech counterpart, Alphabet, Facebook funds its operations almost exclusively through ads. In its most recent fiscal year, 95% of Facebook\u0026#39;s revenues came from advertisements, and the company has become increasingly reliant on ads ...",d:"Aug 24, 2016",tt:"1472068990",usg:"AFQjCNEXOYrFz3OVFf4yH30vji759Sjn8w",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://www.fool.com/investing/2016/08/24/how-important-is-ad-revenue-to-facebook.aspx\u0026cid=52779188506624\u0026ei=9urMV9DbOof4mAHIxo2ICA\u0026usg=AFQjCNGE_3xGcUOBUk7rjTClRK2ag66FUA"}],lead_story_doc_id:"6238589127350341590"},{nrel:39,idx:12,id:"52779187078706",lead_story_url:"http://investorplace.com/2016/08/facebook-inc-fb-stock-may-hit-the-skids-if/",a:[{t:"Facebook Inc (FB) Stock May Hit The Skids If&#8230;",u:"http://investorplace.com/2016/08/facebook-inc-fb-stock-may-hit-the-skids-if/",s:"Investorplace.com",sp:"Facebook Inc (FB) Stock May Hit The Skids If&#8230; On the other hand, it isn\u0026#39;t really heading in the other direction either, remaining range-bound for the time being.",d:"Aug 22, 2016",tt:"1471874629",usg:"AFQjCNFRPyDRN-3PsZrdILDg7Ihe9tolGQ",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://investorplace.com/2016/08/facebook-inc-fb-stock-may-hit-the-skids-if/\u0026cid=52779187078706\u0026ei=9urMV9DbOof4mAHIxo2ICA\u0026usg=AFQjCNHC429AcrzXuQCjvhHw8qg3DM28SQ"}],lead_story_doc_id:"7966475902194855533"},{nrel:2,idx:13,id:"52779195341777",lead_story_url:"http://www.organicauthority.com/an-open-letter-to-mark-zuckerberg-and-facebook-inc-in-defense-of-our-first-amendment-rights/",a:[{t:"An Open Letter to Mark Zuckerberg and...",u:"http://www.organicauthority.com/an-open-letter-to-mark-zuckerberg-and-facebook-inc-in-defense-of-our-first-amendment-rights/",s:"Organic Authority",sp:"Last Thursday, I awoke to find that our health and wellness website, OrganicAuthority.com, was blocked from Facebook without warning or notice about whatever rule it is we violated.",d:"Aug 30, 2016",tt:"1472599457",usg:"AFQjCNE0XnWarwSYbjw6pX1B5YqP00LZSg",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://www.organicauthority.com/an-open-letter-to-mark-zuckerberg-and-facebook-inc-in-defense-of-our-first-amendment-rights/\u0026cid=52779195341777\u0026ei=9urMV9DbOof4mAHIxo2ICA\u0026usg=AFQjCNHJGPDhe3wd5S82KTud1XcuuCq-Tw"}],lead_story_doc_id:"13077165460590774115"},{nrel:38,idx:14,id:"52779186722884",lead_story_url:"http://www.profitconfidential.com/stock/facebook-inc-this-could-be-a-big-problem-for-fb-stock/",a:[{t:"Facebook Inc: This Could Be a Big Problem for FB Stock",u:"http://www.profitconfidential.com/stock/facebook-inc-this-could-be-a-big-problem-for-fb-stock/",s:"Profit Confidential",sp:"How would Facebook Inc (NASDAQ:FB) make money without advertising? It\u0026#39;s an uncomfortable question at first. But when you consider that 97% of FB stock revenues are based on advertising, it becomes downright terrifying.",d:"Aug 23, 2016",tt:"1471944443",usg:"AFQjCNFePi_PxgUkRS4xcj33CGYpzXXwJg",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://www.profitconfidential.com/stock/facebook-inc-this-could-be-a-big-problem-for-fb-stock/\u0026cid=52779186722884\u0026ei=9urMV9DbOof4mAHIxo2ICA\u0026usg=AFQjCNHxDNZuEz0Dl7G2rQW703NpNtL-aw"},{t:"Facebook Inc\u0026#39;s Positive Outlook Leaves FB Room to Run (FB)",u:"http://investorplace.com/2016/08/facebook-inc-fb-stock-down-despite-positive-outlook/",s:"Investorplace.com",sp:"Analysts expect Facebook\u0026#39;s daily average users to swell to 1.7 billion from 1.1 billion currently. Barron\u0026#39;s believes the social media giant will grow its ads rate along with the increase in daily average users, thus helping it generate higher revenues ...",d:"Aug 23, 2016",tt:"1471961025",usg:"AFQjCNHRsFt6vDkxedJjMGHonALxWJ4n3g",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://investorplace.com/2016/08/facebook-inc-fb-stock-down-despite-positive-outlook/\u0026cid=52779186722884\u0026ei=9urMV9DbOof4mAHIxo2ICA\u0026usg=AFQjCNFssBBcvO66PTRT9CKVIHaRRIIv8Q"}],lead_story_doc_id:"2648600528010517287"},{nrel:103,idx:15,id:"52779185586781",lead_story_url:"http://www.nasdaq.com/article/facebook-inc-fb-cob-and-ceo-mark-zuckerberg-sold-95-million-of-stocks-cm668080",a:[{t:"Facebook Inc (FB) COB and CEO Mark Zuckerberg Sold $95 million of Stocks",u:"http://www.nasdaq.com/article/facebook-inc-fb-cob-and-ceo-mark-zuckerberg-sold-95-million-of-stocks-cm668080",s:"Nasdaq",sp:"Facebook Inc operates a social networking website. The Company\u0026#39;s products are Facebook, Instagram, Messenger, WhatsApp, and Oculus.",d:"Aug 20, 2016",tt:"1471671940",usg:"AFQjCNHADcGv8dqUmykFnq9WHPTeq1j_tg",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://www.nasdaq.com/article/facebook-inc-fb-cob-and-ceo-mark-zuckerberg-sold-95-million-of-stocks-cm668080\u0026cid=52779185586781\u0026ei=9urMV9DbOof4mAHIxo2ICA\u0026usg=AFQjCNEADNLQP2As8zeuyXyF0fz-CViFFw"},{t:"Facebook Inc. (FB) CEO Mark Zuckerberg Sells 767905 Shares",u:"http://baseballnewssource.com/markets/facebook-inc-fb-ceo-mark-zuckerberg-sells-767905-shares/74776/",s:"BBNS",sp:"Facebook logo Facebook Inc. (NASDAQ:FB) CEO Mark Zuckerberg sold 767,905 shares of the stock in a transaction that occurred on Thursday, August 18th.",d:"Aug 20, 2016",tt:"1471691025",usg:"AFQjCNFK7LcT9iLkQBhyIMNRfNM2gRPdxg",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://baseballnewssource.com/markets/facebook-inc-fb-ceo-mark-zuckerberg-sells-767905-shares/74776/\u0026cid=52779185586781\u0026ei=9urMV9DbOof4mAHIxo2ICA\u0026usg=AFQjCNE3bsBwYfZ4gcCtprVRsRrJ2XMk7A"},{t:"David M. Wehner Sells 10528 Shares of Facebook Inc. (FB) Stock",u:"http://www.com-unik.info/david-m-wehner-sells-10528-shares-of-facebook-inc-fb-stock/",s:"Community Financial News",sp:"Facebook logo Facebook Inc. (NASDAQ:FB) CFO David M. Wehner sold 10,528 shares of the stock in a transaction on Friday, August 19th.",d:"Aug 20, 2016",tt:"1471691450",usg:"AFQjCNGvJhCl7-R9kDgvasShNTPxh6MDHw",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://www.com-unik.info/david-m-wehner-sells-10528-shares-of-facebook-inc-fb-stock/\u0026cid=52779185586781\u0026ei=9urMV9DbOof4mAHIxo2ICA\u0026usg=AFQjCNFrfm1_ZjVT4T-1p1WkyVEe8xzmyA"}],lead_story_doc_id:"8676279525589889156"},{nrel:73,idx:16,id:"52779197771522",lead_story_url:"http://www.smarteranalyst.com/2016/09/02/william-blair-weighs-facebook-inc-fb-following-industry-participant-meeting/",a:[{t:"Analysts Weigh In On Facebook Inc (FB) And Apple Inc. (AAPL) Following ...",u:"http://www.smarteranalyst.com/2016/09/02/william-blair-weighs-facebook-inc-fb-following-industry-participant-meeting/",s:"Smarter Analyst",sp:"Analysts are weighing in on two of the most popular stocks, Facebook Inc (NASDAQ:FB) and Apple Inc. (NASDAQ:AAPL). While one analyst highlights positive and steady trends on Facebook intra-quarter, the other sets expectations ahead of Apple\u0026#39;s iPhone\u0026nbsp;...",d:"Sep 2, 2016",tt:"1472823808",usg:"AFQjCNGU1UtSztl6Cf3W5Wa4c1Exuyg5lw",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://www.smarteranalyst.com/2016/09/02/william-blair-weighs-facebook-inc-fb-following-industry-participant-meeting/\u0026cid=52779197771522\u0026ei=9urMV9DbOof4mAHIxo2ICA\u0026usg=AFQjCNG3tnkn4RaRl5bNlHk5nerXCdtC_g"},{t:"TOP 4 Stocks: Apple Inc. (NASDAQ:AAPL), Facebook Inc (NASDAQ:FB), Twitter Inc ...",u:"http://www.newsismoney.com/2016/09/02/top-4-stocks-apple-inc-nasdaqaapl-facebook-inc-nasdaqfb-twitter-inc-nysetwtr-alphabet-inc-nasdaqgoogl/",s:"Money News",sp:"On Thursday The S\u0026amp;P 500 and the Dow dipped after sluggish monthly factory activity data dented optimism about the economy and oil prices declined, as investors exercised caution ahead of a payrolls report on Friday.",d:"Sep 2, 2016",tt:"1472791950",usg:"AFQjCNGOGQBs5ArdVybELuCquUgBBC_Bow",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://www.newsismoney.com/2016/09/02/top-4-stocks-apple-inc-nasdaqaapl-facebook-inc-nasdaqfb-twitter-inc-nysetwtr-alphabet-inc-nasdaqgoogl/\u0026cid=52779197771522\u0026ei=9urMV9DbOof4mAHIxo2ICA\u0026usg=AFQjCNECVnOTrmrHWmRKcoAXfKmt-qYk1A"}],lead_story_doc_id:"14942212179834810741"},{nrel:6,idx:17,id:"52779188223022",lead_story_url:"http://www.profitconfidential.com/stock/why-did-facebook-inc-ceo-mark-zuckerberg-sell-95-million-of-fb-stock/",a:[{t:"Why Did Facebook Inc. CEO Mark Zuckerberg Sell $95.0 Million of FB Stock?",u:"http://www.profitconfidential.com/stock/why-did-facebook-inc-ceo-mark-zuckerberg-sell-95-million-of-fb-stock/",s:"Profit Confidential",sp:"Last week on Wednesday and Thursday, Facebook Inc. (NASDAQ:FB) CEO Mark Zuckerberg sold 767,905 units of FB stock to fund his for-profit charity.",d:"Aug 24, 2016",tt:"1472033462",usg:"AFQjCNGAgXBGvY468OXnO0D3XXGzkmn8Rg",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://www.profitconfidential.com/stock/why-did-facebook-inc-ceo-mark-zuckerberg-sell-95-million-of-fb-stock/\u0026cid=52779188223022\u0026ei=9urMV9DbOof4mAHIxo2ICA\u0026usg=AFQjCNFTLUXNqu1M_qp93vWyDE9Vfnl_PQ"},{t:"Facebook Inc Founder Sells Shares For Charity",u:"http://www.valuewalk.com/2016/08/facebook-inc-founder-sells-shares-for-charity/",s:"ValueWalk",sp:"Mark Zuckerberg, Facebook founder and CEO, has sold shares in the company worth $95 million before tax to donate to charity.",d:"Aug 24, 2016",tt:"1472062950",usg:"AFQjCNF-rNl6HmnlOFD-eyRw5g8PFgy2lA",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://www.valuewalk.com/2016/08/facebook-inc-founder-sells-shares-for-charity/\u0026cid=52779188223022\u0026ei=9urMV9DbOof4mAHIxo2ICA\u0026usg=AFQjCNHGK1ifCSk8Y8QLQpljutVwGs3QQQ"}],lead_story_doc_id:"11989275966072418687"},{nrel:215,idx:18,id:"52779192074551",lead_story_url:"http://investorplace.com/2016/08/wednesdays-vital-data-apple-inc-aapl-facebook-inc-fb-abercrombie-fitch-co-anf/",a:[{t:"Wednesday\u0026#39;s Vital Data: Apple Inc. (AAPL), Facebook Inc (FB) and Abercrombie ...",u:"http://investorplace.com/2016/08/wednesdays-vital-data-apple-inc-aapl-facebook-inc-fb-abercrombie-fitch-co-anf/",s:"Investorplace.com",sp:"Wednesday\u0026#39;s Vital Data: Apple Inc. (AAPL), Facebook Inc (FB) It\u0026#39;s more than just Federal Reserve watchers at this point, as today\u0026#39;s employment data from ADP could give an indication as to where Friday\u0026#39;s August jobs data will lead.",d:"Aug 31, 2016",tt:"1472646150",usg:"AFQjCNGIyXZJ_i26JaqDO78pQPac-IkJLA",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://investorplace.com/2016/08/wednesdays-vital-data-apple-inc-aapl-facebook-inc-fb-abercrombie-fitch-co-anf/\u0026cid=52779192074551\u0026ei=9urMV9DbOof4mAHIxo2ICA\u0026usg=AFQjCNEfrKxJDUXJzuT39D4HOtMYDHjt-A"}],lead_story_doc_id:"7920608520259940726"},{nrel:2,idx:19,id:"52779197578141",lead_story_url:"http://www.thecountrycaller.com/41119-facebook-inc-fb-gives-advertisers-a-take-it-or-leave-it-offer/",a:[{t:"Facebook Inc (FB) Gives Advertisers a Take it Or Leave it Offer",u:"http://www.thecountrycaller.com/41119-facebook-inc-fb-gives-advertisers-a-take-it-or-leave-it-offer/",s:"TCC",sp:"Facebook Inc. (NASDAQ:FB) tells ad hosts to speed up their websites or else their ads will be booted off of the Social Media Network.",d:"Sep 2, 2016",tt:"1472846625",usg:"AFQjCNHOKlaVvJwJWwh8KiTbSJRfTwZ56g",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://www.thecountrycaller.com/41119-facebook-inc-fb-gives-advertisers-a-take-it-or-leave-it-offer/\u0026cid=52779197578141\u0026ei=9urMV9DbOof4mAHIxo2ICA\u0026usg=AFQjCNELX8f3E798g62b5Nihs2XM0cAwcA"}],lead_story_doc_id:"7113839014937575072"},{nrel:566,idx:20,id:"52779193139922",lead_story_url:"http://finance.yahoo.com/news/facebook-inc-mark-zuckerberg-met-190501705.html",a:[{t:"Facebook Inc.\u0026#39;s Mark Zuckerberg Met The Pope and Gave Him a Drone (FB)",u:"http://finance.yahoo.com/news/facebook-inc-mark-zuckerberg-met-190501705.html",s:"Yahoo Finance",sp:"Mark Zuckerberg, the CEO of Facebook (FB), has a new best friend. Well, not exactly, but he did meet with a prominent world figure, metaphorically (and not so metaphorically) asserting Facebook\u0026#39;s quest for global influence. The tech leader Monday ...",d:"Aug 29, 2016",tt:"1472500599",usg:"AFQjCNGOEbP6mrPoLO2_tat2kHaqLHTmWA",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://finance.yahoo.com/news/facebook-inc-mark-zuckerberg-met-190501705.html\u0026cid=52779193139922\u0026ei=9urMV9DbOof4mAHIxo2ICA\u0026usg=AFQjCNFNVHQ6aWE_bKxSh3RVYF-30saxkg"},{t:"Facebook Inc. will not become a media company: Mark Zuckerberg",u:"http://tech.firstpost.com/news-analysis/facebook-inc-will-not-become-a-media-company-mark-zuckerberg-332262.html",s:"Firstpost",sp:"Facebook Inc. will not become a media company, its founder and CEO Mark Zuckerberg said on Monday, telling students the firm would remain a technology platform.",d:"Aug 29, 2016",tt:"1472489550",usg:"AFQjCNHsI06l-5ODFmXnmb14XRRK-iwboQ",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://tech.firstpost.com/news-analysis/facebook-inc-will-not-become-a-media-company-mark-zuckerberg-332262.html\u0026cid=52779193139922\u0026ei=9urMV9DbOof4mAHIxo2ICA\u0026usg=AFQjCNH4Y2UTcSoZ65MAtZ0cbEM1QafRXA"},{t:"Facebook to Allow Users to Trigger \u0026#39;Safety Check\u0026#39; Feature",u:"http://www.wsj.com/articles/facebook-to-allow-users-to-trigger-safety-check-feature-1472502618",s:"Wall Street Journal",sp:"Facebook Inc. FB 0.27 % said Monday that it is planning for communities to be able to trigger its &#8220;safety check&#8221; function instead of the social media giant having sole control over it during a disaster, reinforcing its stance that it is merely a ...",d:"Aug 29, 2016",tt:"1472502637",usg:"AFQjCNFkiI_NO5lbeqZ6-CMB3t56Vb3GEw",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://www.wsj.com/articles/facebook-to-allow-users-to-trigger-safety-check-feature-1472502618\u0026cid=52779193139922\u0026ei=9urMV9DbOof4mAHIxo2ICA\u0026usg=AFQjCNHlzBSzRlr-u54zMrMDicMb9Jjvrw"}],lead_story_doc_id:"3703916729593781372"},{idx:21,id:"0",lead_story_url:"http://investorplace.com/2016/08/trade-day-facebook-inc-nasdaq-fb/",a:[{t:"This company is still boosting revenue",u:"http://investorplace.com/2016/08/trade-day-facebook-inc-nasdaq-fb/",s:"Investorplace.com",sp:"Today, we\u0026#39;re opening a new bullish trade on Facebook (FB). In the wake of Fed Chair Yellen\u0026#39;s &#8220;hawkish&#8221; monetary-policy speech at Jackson Hole, the market is trying to figure out what to do with the new information.",d:"Aug 29, 2016",tt:"1472474700",usg:"AFQjCNE5HndugDa1_tYR5kpd4MLGtGBXyQ",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://investorplace.com/2016/08/trade-day-facebook-inc-nasdaq-fb/\u0026cid=0\u0026ei=9urMV9DbOof4mAHIxo2ICA\u0026usg=AFQjCNEsRKUHiPtqAWxdb8edmGXe_m47Vg"}],lead_story_doc_id:"7026151428708223349"},{idx:22,id:"0",lead_story_url:"http://investorplace.com/2016/09/facebook-stock-fb-still-buy-all-time-highs/",a:[{t:"Facebook Inc (FB) Stock Is Still a Buy at All-Time Highs",u:"http://investorplace.com/2016/09/facebook-stock-fb-still-buy-all-time-highs/",s:"Investorplace.com",sp:"For readers of my column, you have probably figured out that I\u0026#39;m not a growth stock kind of investor. Yes, I have growth stocks in my long-term diversified portfolio, but I choose them very carefully.",d:"Sep 2, 2016",tt:"1472825025",usg:"AFQjCNHz_Lz-ZJ7xsFRe9LCb_tW8kn6wNg",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://investorplace.com/2016/09/facebook-stock-fb-still-buy-all-time-highs/\u0026cid=0\u0026ei=9urMV9DbOof4mAHIxo2ICA\u0026usg=AFQjCNGTW8QigaxdrIjNJK1CsPlW-SOyQw"}],lead_story_doc_id:"15613105820889299036"},{nrel:13,idx:23,id:"52779196193723",lead_story_url:"http://marketexclusive.com/impact-facebook-inc-nasdaqfb-whatsapp-messenger-healthcare-deepens/26035/",a:[{t:"The Impact Of Facebook Inc (NASDAQ:FB) WhatsApp Messenger On Healthcare Deepens",u:"http://marketexclusive.com/impact-facebook-inc-nasdaqfb-whatsapp-messenger-healthcare-deepens/26035/",s:"Market Exclusive",sp:"SAN FRANCISCO, CA - FEBRUARY 19: Facebook and WhatsApp logos are displayed on portable electronic devices on February 19, 2014 in San Francisco City.",d:"Sep 1, 2016",tt:"1472737950",usg:"AFQjCNE7ykfAECCzbNj5nL135m_YTI1xJA",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://marketexclusive.com/impact-facebook-inc-nasdaqfb-whatsapp-messenger-healthcare-deepens/26035/\u0026cid=52779196193723\u0026ei=9urMV9DbOof4mAHIxo2ICA\u0026usg=AFQjCNHniO7wYOSYh1Z9so_Gu4ONwE5OVQ"}],lead_story_doc_id:"9488704090973793700"},{nrel:239,idx:24,id:"52779191077595",lead_story_url:"http://www.insidermonkey.com/blog/why-facebook-inc-fb-wal-mart-stores-inc-wmt-and-three-other-stocks-are-in-spotlight-today-471934/",a:[{t:"Why Facebook Inc (FB), Wal-Mart Stores, Inc. (WMT) and Three Other Stocks Are ...",u:"http://www.insidermonkey.com/blog/why-facebook-inc-fb-wal-mart-stores-inc-wmt-and-three-other-stocks-are-in-spotlight-today-471934/",s:"Insider Monkey (blog)",sp:"Among the companies that are making headlines on the last day of the trading week are Facebook Inc (NASDAQ:FB), Wal-Mart Stores, Inc. (NYSE:WMT), Hewlett Packard Enterprise Co (NYSE:HPE), Bank of America Corp (NYSE:BAC), and Citigroup Inc\u0026nbsp;...",d:"Sep 2, 2016",tt:"1472825025",usg:"AFQjCNH6pzAEB_Cla2PyCmAHlqpbbFzSiw",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://www.insidermonkey.com/blog/why-facebook-inc-fb-wal-mart-stores-inc-wmt-and-three-other-stocks-are-in-spotlight-today-471934/\u0026cid=52779191077595\u0026ei=9urMV9DbOof4mAHIxo2ICA\u0026usg=AFQjCNEIwBKWNxBs1sTeVPLzVQliqMpXsw"}],lead_story_doc_id:"799743475012866388"},{nrel:23,idx:25,id:"52779195562103",lead_story_url:"http://marketexclusive.com/facebook-inc-nasdaqfb-experiments-on-new-stabilization-features-for-360-degree-videos/26112/",a:[{t:"Facebook Inc (NASDAQ:FB) Experiments On New Stabilization Features For 360 ...",u:"http://marketexclusive.com/facebook-inc-nasdaqfb-experiments-on-new-stabilization-features-for-360-degree-videos/26112/",s:"Market Exclusive",sp:"Facebook Inc (NASDAQ:FB) is working on new ways of making sure that 360-degree videos are stable. As the virtual reality industry gains more steam, 360-degree videos have also become a reality and something that is soon expected to become\u0026nbsp;...",d:"Sep 2, 2016",tt:"1472834475",usg:"AFQjCNGibbQGZG4diE6vcQGrjd4lo1sOKQ",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://marketexclusive.com/facebook-inc-nasdaqfb-experiments-on-new-stabilization-features-for-360-degree-videos/26112/\u0026cid=52779195562103\u0026ei=9urMV9DbOof4mAHIxo2ICA\u0026usg=AFQjCNEwfeVYW6LYwEC6Va6iyX_bh-s_pw"},{t:"Facebook Inc (NASDAQ:FB) Improves 360-Degree Camera Stability",u:"http://www.realistinvestor.com/facebook-inc-nasdaqfb-improves-360-degree-camera-stability/38896",s:"RealistInvestor.com",sp:"Since the year began, Facebook Inc (NASDAQ:FB) has been working on an algorithm, which is part of electronic image stabilization solution, that enhances the stability of 360-degree videos.",d:"Sep 1, 2016",tt:"1472756352",usg:"AFQjCNFQM5x_pww7SVUhLyljyyM2kk7z1g",sru:"http://news.google.com/news/url?sa=T\u0026ct2=us\u0026fd=S\u0026url=http://www.realistinvestor.com/facebook-inc-nasdaqfb-improves-360-degree-camera-stability/38896\u0026cid=52779195562103\u0026ei=9urMV9DbOof4mAHIxo2ICA\u0026usg=AFQjCNGWR02yn_-uohGftmM-T4NACrbqoA"}],lead_story_doc_id:"8141813773265630261"},{idx:26,id:"-1"}],results_per_page:10,result_start_num:1,result_end_num:0,result_total_articles:67},related:{cols:[0,1,4,30,34,31,32,5,2,33,3],rows:[{id:"296878244325128",values:["FB","Facebook Inc","126.51","+0.34","chg","0.27","","364.27B","NASDAQ","296878244325128","FB"]},{id:"358464",values:["MSFT","Microsoft Corporation","57.67","+0.08","chg","0.14","","450.02B","NASDAQ","358464","MSFT"]},{id:"694653",values:["GOOGL","Alphabet Inc","796.87","+5.47","chg","0.69","","542.66B","NASDAQ","694653","GOOGL"]},{id:"32086821185414",values:["TWTR","Twitter Inc","19.55","+0.05","chg","0.26","","13.87B","NYSE","32086821185414","TWTR"]},{id:"658890",values:["YHOO","Yahoo! Inc.","43.28","+0.35","chg","0.82","","41.53B","NASDAQ","658890","YHOO"]},{id:"663286",values:["MEET","MeetMe Inc","5.90","+0.03","chg","0.51","","311.24M","NASDAQ","663286","MEET"]},{id:"664517",values:["SINA","SINA Corp","81.88","+3.13","chg","3.97","","5.95B","NASDAQ","664517","SINA"]},{id:"13210501",values:["LNKD","LinkedIn Corp","192.80","+0.07","chg","0.04","","25.99B","NYSE","13210501","LNKD"]},{id:"662654",values:["EBAY","eBay Inc","32.28","+0.15","chg","0.47","","36.61B","NASDAQ","662654","EBAY"]},{id:"655621",values:["TWX","Time Warner Inc","78.53","+0.37","chg","0.47","","61.37B","NYSE","655621","TWX"]},{id:"120222725170627",values:["WB","Weibo Corp (ADR)","49.54","+0.52","chg","1.06","","10.65B","NASDAQ","120222725170627","WB"]}],visible_cols:[0,1,4,30,34,31,32,5]},related_str:"296878244325128,358464,694653,32086821185414,658890,663286,664517,13210501,662654,655621,120222725170627",perf:[{u:"/finance?q=INDEXDJX:.DJI",name:"Dow Jones",cp:"0.39",p:"18,491.96",cid:"983582"},{u:"/finance?q=INDEXNASDAQ:.IXIC",name:"Nasdaq",cp:"0.43",p:"5,249.90",cid:"13756934"},{u:"/finance?catid=us-TRBC:57",name:"Technology",cp:"0.44",cid:"0"},{u:"/finance?q=NASDAQ:FB",name:"FB",cp:"0.27",p:"126.51",cid:"296878244325128"}],t:"NASDAQ:FB: {LAST} {CHANGE} ({CHANGE_PCT}%) - Facebook Inc",ticker:"NASDAQ:FB",cid:"296878244325128"},stickyUrlArgs:"\u0026ei=ZOvMV4jzOoHTmAHl3ZnIBg",chart:{_5d:"EXCHANGE%3DNASDAQ\nMARKET_OPEN_MINUTE=570\nMARKET_CLOSE_MINUTE=960\nINTERVAL=120\nCOLUMNS=DATE,CLOSE,VOLUME\nDATA=\nTIMEZONE_OFFSET=-240\na1472477400,124.8364,116871\n1,124.93,106020\n2,124.81,69624\n3,125.19,283453\n4,125.29,233068\n5,125.35,276718\n6,125.46,158289\n7,125.61,150268\n8,125.75,287389\n9,125.817,196198\n10,125.64,145763\n11,125.815,160958\n12,125.83,96411\n13,125.84,109844\n14,125.72,129213\n15,125.715,100140\n16,125.67,114223\n17,125.585,123293\n18,125.68,85951\n19,125.7658,162181\n20,125.6658,118403\n21,125.74,60778\n22,125.76,85685\n23,125.72,56708\n24,125.7,31349\n25,125.7484,54876\n26,125.68,48642\n27,125.705,54162\n28,125.8,148054\n29,125.76,100789\n30,125.63,54983\n31,125.5799,68891\n32,125.576,77353\n33,125.54,64835\n34,125.55,56201\n35,125.6038,39696\n36,125.66,73090\n37,125.67,51160\n38,125.74,52621\n39,125.7735,66890\n40,125.7801,54174\n41,125.78,27763\n42,125.78,43355\n43,125.74,46771\n44,125.75,37287\n45,125.71,44732\n46,125.685,87175\n47,125.76,160393\n48,125.8292,94817\n49,125.827,40950\n50,125.8156,30846\n51,125.8,33854\n52,125.82,51514\n53,125.77,24824\n54,125.8,32468\n55,125.72,36800\n56,125.75,38031\n57,125.71,63367\n58,125.679,44640\n59,125.68,43051\n60,125.7,35671\n61,125.6982,52536\n62,125.67,28588\n63,125.715,22156\n64,125.73,63912\n65,125.74,31541\n66,125.785,80684\n67,125.8063,46977\n68,125.821,32957\n69,125.875,98083\n70,125.93,82714\n71,125.93,44231\n72,125.9499,32401\n73,125.93,89762\n74,125.949,59962\n75,125.9598,44217\n76,125.93,43637\n77,125.91,42629\n78,125.9265,77490\n79,125.9367,41557\n80,125.94,47312\n81,125.97,37329\n82,125.98,59852\n83,125.98,29129\n84,125.99,37818\n85,125.94,51267\n86,125.9496,46275\n87,125.92,34515\n88,125.92,35782\n89,125.9356,20673\n90,125.88,34884\n91,125.93,27131\n92,125.9,27311\n93,125.917,15835\n94,125.8737,18559\n95,125.84,26141\n96,125.8637,24182\n97,125.8399,10873\n98,125.913,32580\n99,125.9063,25744\n100,125.9295,21631\n101,125.91,41751\n102,125.8943,18608\n103,125.94,22808\n104,125.9559,129571\n105,125.99,32366\n106,125.99,34325\n107,125.9563,336264\n108,125.95,26945\n109,125.98,26484\n110,125.9448,26427\n111,125.97,18315\n112,125.97,21889\n113,125.9479,21375\n114,125.9393,19394\n115,125.99,27700\n116,126.0126,55335\n117,126.05,48889\n118,126.03,46581\n119,126.05,36556\n120,126.042,51342\n121,126.06,28626\n122,126.0299,20065\n123,126.04,28228\n124,126.0893,39422\n125,126.12,80472\n126,126.17,122681\n127,126.16,37974\n128,126.17,52369\n129,126.17,31210\n130,126.19,49832\n131,126.1866,54936\n132,126.17,38990\n133,126.13,38924\n134,126.1555,24553\n135,126.24,146240\n136,126.2245,64883\n137,126.22,33242\n138,126.27,84305\n139,126.28,48909\n140,126.29,31791\n141,126.31,43844\n142,126.29,31335\n143,126.288,48707\n144,126.275,34488\n145,126.3001,43237\n146,126.32,74683\n147,126.3,33156\n148,126.28,60434\n149,126.22,106783\n150,126.23,49664\n151,126.27,45142\n152,126.279,43509\n153,126.29,56801\n154,126.335,43585\n155,126.35,90176\n156,126.33,71618\n157,126.352,47730\n158,126.3475,49847\n159,126.355,65364\n160,126.3448,74539\n161,126.42,87083\n162,126.44,74168\n163,126.44,43135\n164,126.465,90933\n165,126.465,79162\n166,126.48,72046\n167,126.51,84079\n168,126.497,80546\n169,126.515,49001\n170,126.54,70002\n171,126.54,64569\n172,126.6,103046\n173,126.57,57522\n174,126.615,85682\n175,126.66,120096\n176,126.695,73434\n177,126.6159,151614\n178,126.5301,117822\n179,126.6693,128419\n180,126.6405,103676\n181,126.5574,120788\n182,126.59,83190\n183,126.6,72423\n184,126.65,74827\n185,126.645,92827\n186,126.67,90455\n187,126.63,97920\n188,126.6,78864\n189,126.64,76315\n190,126.64,116156\n191,126.64,87966\n192,126.65,130318\n193,126.5541,218074\n194,126.6201,189018\n195,126.54,889744\n720,126.54,169797\n721,126.39,246532\n722,126.2408,225212\n723,126.2614,206776\n724,126.2646,175275\n725,126.23,135008\n726,126.15,149071\n727,126.09,186391\n728,126.075,145879\n729,126.11,142485\n730,126.21,157309\n731,126.2,249306\n732,126.36,226107\n733,126.42,170088\n734,126.34,125405\n735,126.355,131668\n736,126.46,110954\n737,126.57,142829\n738,126.36,166849\n739,126.18,122775\n740,126.07,385168\n741,126,155007\n742,125.86,210629\n743,125.8312,140748\n744,125.89,102785\n745,125.795,155164\n746,125.8,75018\n747,125.81,101001\n748,125.72,77787\n749,125.69,213412\n750,125.78,82022\n751,125.75,92546\n752,125.5895,174268\n753,125.6,226502\n754,125.53,102083\n755,125.4761,73489\n756,125.535,78411\n757,125.46,66236\n758,125.5135,113510\n759,125.51,51285\n760,125.5199,64686\n761,125.495,70663\n762,125.5,66999\n763,125.55,59749\n764,125.6,159245\n765,125.59,57517\n766,125.71,133584\n767,125.77,140836\n768,125.698,109500\n769,125.77,121677\n770,125.75,48924\n771,125.81,73659\n772,125.6999,52827\n773,125.63,72403\n774,125.67,63553\n775,125.7099,46282\n776,125.58,79741\n777,125.65,102769\n778,125.58,39982\n779,125.6062,41861\n780,125.5901,47071\n781,125.5101,56258\n782,125.45,108477\n783,125.5,104232\n784,125.54,52441\n785,125.567,58642\n786,125.49,63732\n787,125.45,55343\n788,125.495,78255\n789,125.51,86252\n790,125.5259,84873\n791,125.47,113863\n792,125.51,44922\n793,125.57,63765\n794,125.58,49856\n795,125.6247,64492\n796,125.63,46999\n797,125.675,50739\n798,125.71,71817\n799,125.7262,39967\n800,125.7,46383\n801,125.65,53188\n802,125.5701,69757\n803,125.665,257739\n804,125.59,101791\n805,125.55,90249\n806,125.53,32479\n807,125.5,46936\n808,125.4948,55586\n809,125.47,53180\n810,125.38,96172\n811,125.4122,59946\n812,125.4765,44802\n813,125.48,30765\n814,125.51,78908\n815,125.58,85490\n816,125.63,98611\n817,125.665,75616\n818,125.63,70291\n819,125.62,48588\n820,125.6908,72630\n821,125.695,45224\n822,125.76,74536\n823,125.73,62790\n824,125.68,19832\n825,125.62,49750\n826,125.491,74334\n827,125.57,59055\n828,125.51,34477\n829,125.525,49662\n830,125.54,30360\n831,125.54,22431\n832,125.535,32345\n833,125.53,27226\n834,125.535,58415\n835,125.5052,53937\n836,125.515,28230\n837,125.5159,31319\n838,125.4934,58230\n839,125.54,31904\n840,125.45,34282\n841,125.46,20728\n842,125.46,41806\n843,125.36,151973\n844,125.35,26119\n845,125.425,46088\n846,125.35,41986\n847,125.39,28857\n848,125.32,51672\n849,125.33,71729\n850,125.2931,34707\n851,125.31,64066\n852,125.34,41028\n853,125.35,31934\n854,125.4,41407\n855,125.3475,41255\n856,125.34,38686\n857,125.27,74254\n858,125.24,31153\n859,125.29,30219\n860,125.29,45848\n861,125.3144,21611\n862,125.33,19028\n863,125.26,27885\n864,125.21,62706\n865,125.2599,56583\n866,125.3362,35377\n867,125.32,45822\n868,125.29,33492\n869,125.295,38809\n870,125.3,27851\n871,125.2202,33688\n872,125.184,76927\n873,125.21,63799\n874,125.216,57309\n875,125.21,39267\n876,125.279,38825\n877,125.22,31462\n878,125.255,28879\n879,125.245,36326\n880,125.285,31483\n881,125.33,39609\n882,125.3841,47646\n883,125.3605,40445\n884,125.335,27835\n885,125.36,23922\n886,125.32,50852\n887,125.3062,39567\n888,125.25,35973\n889,125.32,57138\n890,125.35,35381\n891,125.38,30481\n892,125.36,26641\n893,125.39,31455\n894,125.42,41496\n895,125.4328,65347\n896,125.38,42903\n897,125.43,39554\n898,125.47,68794\n899,125.5089,83825\n900,125.465,41263\n901,125.485,48086\n902,125.5,65294\n903,125.495,40887\n904,125.6198,137065\n905,125.67,97338\n906,125.73,198379\n907,125.585,122623\n908,125.63,69011\n909,125.635,76866\n910,125.625,71732\n911,125.63,78446\n912,125.7299,107434\n913,125.75,260327\n914,125.75,190100\n915,125.84,749380\na1472650200,125.61,118540\n1,125.5748,98552\n2,125.41,116326\n3,125.33,126572\n4,125.37,131387\n5,125.28,114169\n6,125.21,207094\n7,125.4,122087\n8,125.4,75236\n9,125.2301,139025\n10,125.36,89859\n11,125.1986,68126\n12,125.16,112765\n13,125.4,205050\n14,125.41,128357\n15,125.49,67506\n16,125.585,102129\n17,125.74,228976\n18,125.77,71002\n19,125.751,114457\n20,125.91,131020\n21,126.06,195752\n22,125.8395,105559\n23,125.84,67545\n24,125.93,64741\n25,125.91,35888\n26,126.041,133003\n27,126.001,44498\n28,126,92512\n29,126.0496,72637\n30,125.99,30004\n31,125.95,65005\n32,125.8792,72075\n33,125.755,109931\n34,125.83,53679\n35,125.91,56692\n36,125.885,56558\n37,125.99,59377\n38,125.98,103136\n39,125.93,47449\n40,125.9552,45846\n41,126.065,86768\n42,126.125,111408\n43,126.09,136877\n44,126.115,65171\n45,126.14,58392\n46,126.16,88376\n47,126.18,66452\n48,126.09,93717\n49,126.12,62635\n50,126.15,37559\n51,126.14,93609\n52,126.15,47721\n53,126.1,27035\n54,126.05,42451\n55,126.056,21875\n56,126.03,37660\n57,126.0341,57160\n58,126.08,38595\n59,126.085,31204\n60,126.07,22705\n61,126.05,20224\n62,125.9999,66614\n63,125.87,61643\n64,125.91,47178\n65,125.97,31327\n66,125.99,29574\n67,125.97,36536\n68,126.0101,32228\n69,126.04,29279\n70,126.05,45864\n71,126.08,39458\n72,126.0759,27036\n73,126.09,67948\n74,126.0148,44454\n75,126.01,24932\n76,125.931,68373\n77,125.91,56183\n78,125.8599,63009\n79,125.83,35434\n80,125.86,37286\n81,125.82,29666\n82,125.7932,30166\n83,125.64,89162\n84,125.6748,42278\n85,125.53,129748\n86,125.61,73658\n87,125.6865,34987\n88,125.64,37505\n89,125.646,21564\n90,125.61,47951\n91,125.684,24297\n92,125.6,61558\n93,125.71,42698\n94,125.6901,28213\n95,125.7298,67906\n96,125.79,57217\n97,125.81,77481\n98,125.85,34366\n99,125.88,63137\n100,125.87,28244\n101,125.901,16381\n102,125.84,41018\n103,125.7435,41384\n104,125.79,19132\n105,125.78,10853\n106,125.765,14000\n107,125.722,24088\n108,125.71,31612\n109,125.73,24355\n110,125.79,25203\n111,125.805,17688\n112,125.8601,47416\n113,125.84,26711\n114,125.875,33568\n115,125.87,17600\n116,125.87,28795\n117,125.87,22701\n118,125.85,30694\n119,125.86,9349\n120,125.85,18642\n121,125.83,23902\n122,125.83,27330\n123,125.87,10695\n124,125.88,29145\n125,125.9,18511\n126,125.99,68575\n127,126.04,38837\n128,126.03,47700\n129,125.96,22416\n130,125.93,35000\n131,125.99,28965\n132,126,46794\n133,125.996,16462\n134,125.98,12877\n135,125.9834,21691\n136,125.98,23036\n137,126.01,48602\n138,126.07,69136\n139,126.0901,82567\n140,126.1,33462\n141,126.13,37850\n142,126.15,78538\n143,126.13,55009\n144,126.0992,36830\n145,126.14,31715\n146,126.12,27162\n147,126.08,15313\n148,126.1099,25977\n149,126.1,30643\n150,126.1,23775\n151,126.08,18866\n152,126.05,26772\n153,126.05,44837\n154,126.02,23946\n155,126.0298,22780\n156,125.97,51210\n157,125.97,27403\n158,125.95,22830\n159,125.9435,42682\n160,125.9301,50411\n161,125.849,43561\n162,125.89,28962\n163,125.88,34150\n164,125.92,26719\n165,125.91,18152\n166,125.97,36406\n167,126,27511\n168,126.05,32283\n169,126.0501,38195\n170,126.1,55948\n171,126.05,15230\n172,126.06,45134\n173,126.1036,85917\n174,125.99,71777\n175,126.0199,67674\n176,126.08,47313\n177,126.065,41682\n178,126.08,56552\n179,126.12,86215\n180,126.07,42954\n181,126.07,57821\n182,126.1435,68222\n183,126.15,6000\n184,126.146,111415\n185,126.15,48946\n186,126.18,89820\n187,126.16,72228\n188,126.18,55341\n189,126.17,82817\n190,126.16,64398\n191,126.184,85881\n192,126.19,99707\n193,126.16,104598\n194,126.15,99532\n195,126.12,1333143\n720,126.35,165237\n721,126.37,138076\n722,126.5,161228\n723,126.355,82732\n724,126.1908,140413\n725,126.28,100323\n726,126.4209,99944\n727,126.55,123572\n728,126.52,91555\n729,126.48,72808\n730,126.42,94819\n731,126.2774,114908\n732,126.2018,135046\n733,126.17,85366\n734,126.297,94101\n735,126.27,81366\n736,126.331,141027\n737,126.29,36463\n738,126.26,74865\n739,126.26,43918\n740,126.29,53693\n741,126.22,72581\n742,126.145,107314\n743,126.22,53554\n744,126.21,149386\n745,126.19,56949\n746,126.1,102554\n747,126.125,63973\n748,126.08,37105\n749,125.999,85354\n750,125.98,62723\n751,125.77,191296\n752,125.7259,92092\n753,125.81,60458\n754,125.86,116434\n755,125.87,40435\n756,125.87,43383\n757,125.91,48943\n758,125.92,29047\n759,125.93,29532\n760,125.8909,44804\n761,125.8301,51260\n762,125.85,34077\n763,125.75,70143\n764,125.7705,29750\n765,125.77,34988\n766,125.65,103465\n767,125.68,75750\n768,125.66,34214\n769,125.7058,40491\n770,125.7456,38741\n771,125.69,28716\n772,125.7848,32966\n773,125.76,29655\n774,125.835,61835\n775,125.87,52140\n776,125.9,77838\n777,126.005,62362\n778,126.06,103117\n779,126.08,145763\n780,126.1,60043\n781,126.11,46576\n782,126.1,30673\n783,126.14,45173\n784,126.09,33557\n785,126.07,53219\n786,126,49992\n787,126,73248\n788,125.97,64537\n789,126.0052,44850\n790,125.99,24137\n791,125.93,65325\n792,125.91,15503\n793,125.935,17556\n794,125.99,24904\n795,126.0602,68147\n796,126.079,28994\n797,126.07,32295\n798,126.002,18845\n799,126.1,37913\n800,126.065,23086\n801,126.07,29899\n802,126.0904,22416\n803,126.245,70275\n804,126.25,97621\n805,126.28,73721\n806,126.28,27079\n807,126.3,69421\n808,126.42,107827\n809,126.41,110146\n810,126.41,76939\n811,126.39,24936\n812,126.48,70327\n813,126.5202,139436\n814,126.43,84286\n815,126.41,51844\n816,126.3941,34643\n817,126.45,21990\n818,126.42,33344\n819,126.43,12518\n820,126.44,38837\n821,126.47,36117\n822,126.45,28995\n823,126.4266,31973\n824,126.41,30913\n825,126.3959,19247\n826,126.41,37081\n827,126.43,51689\n828,126.46,13393\n829,126.495,66136\n830,126.53,42285\n831,126.44,67450\n832,126.48,26136\n833,126.48,24169\n834,126.54,36208\n835,126.545,27410\n836,126.55,94385\n837,126.56,32886\n838,126.47,70109\n839,126.45,36405\n840,126.44,43172\n841,126.4599,26102\n842,126.42,21805\n843,126.44,50822\n844,126.41,19606\n845,126.47,46728\n846,126.3966,30973\n847,126.41,28752\n848,126.395,32116\n849,126.44,21869\n850,126.42,21196\n851,126.415,15772\n852,126.43,31016\n853,126.36,41646\n854,126.3156,28431\n855,126.29,30423\n856,126.22,48160\n857,126.25,23910\n858,126.27,104579\n859,126.32,31880\n860,126.355,43821\n861,126.34,31452\n862,126.3048,32840\n863,126.34,20512\n864,126.33,29756\n865,126.33,15935\n866,126.28,61831\n867,126.305,19965\n868,126.2523,20796\n869,126.18,57972\n870,126.1801,32776\n871,126.16,43307\n872,126.17,51795\n873,126.16,50714\n874,126.145,67275\n875,126.15,45476\n876,126.224,67687\n877,126.17,59358\n878,126.22,62613\n879,126.3,93054\n880,126.205,70567\n881,126.22,39792\n882,126.24,37735\n883,126.25,43217\n884,126.25,22075\n885,126.28,32128\n886,126.1823,47245\n887,126.1966,51408\n888,126.075,53966\n889,125.97,66999\n890,126.009,63238\n891,126.0375,38600\n892,126.14,63083\n893,126.07,36590\n894,126.07,34925\n895,126.07,21980\n896,126.11,38714\n897,126.17,52227\n898,126.17,25239\n899,126.18,53605\n900,126.14,41202\n901,126.17,47710\n902,126.21,50294\n903,126.24,57107\n904,126.1959,32135\n905,126.22,39665\n906,126.32,82167\n907,126.27,42740\n908,126.26,46323\n909,126.3,29480\n910,126.3,58548\n911,126.38,96409\n912,126.32,57568\n913,126.28,69485\n914,126.2401,115439\n915,126.17,1086396\na1472823000,126.8,179753\n1,126.718,195811\n2,126.77,135613\n3,126.78,146736\n4,126.612,166647\n5,126.62,67664\n6,126.57,61415\n7,126.44,73883\n8,126.55,108020\n9,126.56,50524\n10,126.6775,73464\n11,126.7434,121753\n12,126.64,75708\n13,126.7526,83971\n14,126.7386,75277\n15,126.76,53795\n16,126.74,57818\n17,126.71,93700\n18,126.602,52717\n19,126.6367,70333\n20,126.58,114120\n21,126.61,73436\n22,126.68,89876\n23,126.7,76426\n24,126.76,105793\n25,126.69,55014\n26,126.69,37106\n27,126.76,37831\n28,126.7459,27080\n29,126.669,28303\n30,126.74,26419\n31,126.61,55345\n32,126.615,55809\n33,126.535,49597\n34,126.5382,39497\n35,126.54,44397\n36,126.58,29119\n37,126.51,68265\n38,126.57,41164\n39,126.58,28433\n40,126.59,36649\n41,126.57,34786\n42,126.48,48957\n43,126.5,26312\n44,126.48,95528\n45,126.43,64955\n46,126.47,28193\n47,126.4,69821\n48,126.4225,43518\n49,126.43,24675\n50,126.38,27767\n51,126.36,41026\n52,126.33,78061\n53,126.4,67765\n54,126.35,25790\n55,126.47,35305\n56,126.51,56352\n57,126.48,42514\n58,126.42,26225\n59,126.4267,24381\n60,126.44,25405\n61,126.42,36810\n62,126.51,47736\n63,126.45,44280\n64,126.44,55075\n65,126.41,17021\n66,126.36,31439\n67,126.3673,17140\n68,126.35,20101\n69,126.38,15836\n70,126.35,19444\n71,126.37,12643\n72,126.3437,38244\n73,126.385,22863\n74,126.37,19644\n75,126.385,47921\n76,126.39,12622\n77,126.33,34362\n78,126.3,45110\n79,126.2869,77016\n80,126.285,29147\n81,126.2668,42947\n82,126.29,25892\n83,126.22,61814\n84,126.29,34414\n85,126.23,15260\n86,126.2017,73788\n87,126.28,30504\n88,126.28,28135\n89,126.28,48660\n90,126.24,17976\n91,126.29,36063\n92,126.3,51619\n93,126.345,32628\n94,126.41,85805\n95,126.42,33931\n96,126.4351,20812\n97,126.43,58928\n98,126.425,52689\n99,126.44,42126\n100,126.41,49250\n101,126.4675,46839\n102,126.48,26220\n103,126.46,55180\n104,126.431,25041\n105,126.39,43916\n106,126.38,9202\n107,126.36,40819\n108,126.35,11912\n109,126.3,27959\n110,126.25,18523\n111,126.1627,111737\n112,126.13,75458\n113,126.11,36576\n114,126.08,26519\n115,126.07,30356\n116,126.04,56370\n117,126.14,64853\n118,126.1044,23187\n119,126.06,36917\n120,126.06,19631\n121,126.06,33288\n122,126.0365,31031\n123,126.13,71367\n124,126.07,46834\n125,126.09,20541\n126,126.07,27885\n127,126.115,22630\n128,126.1,26503\n129,126.15,27731\n130,126.1688,17444\n131,126.1662,12260\n132,126.32,99078\n133,126.295,114500\n134,126.28,74999\n135,126.2801,28248\n136,126.26,51839\n137,126.24,24156\n138,126.28,31500\n139,126.3511,41231\n140,126.385,80732\n141,126.37,38223\n142,126.38,40402\n143,126.44,54660\n144,126.4838,91112\n145,126.5,33386\n146,126.4381,46476\n147,126.45,20271\n148,126.464,27787\n149,126.47,16638\n150,126.49,40122\n151,126.4852,55620\n152,126.5,24739\n153,126.4397,46087\n154,126.37,24675\n155,126.445,35481\n156,126.43,36865\n157,126.5,76508\n158,126.49,24039\n159,126.4879,26572\n160,126.43,26689\n161,126.394,19628\n162,126.45,21655\n163,126.42,23424\n164,126.45,11181\n165,126.475,18584\n166,126.489,34000\n167,126.4201,15490\n168,126.46,26700\n169,126.425,30094\n170,126.429,22387\n171,126.48,21169\n172,126.461,15750\n173,126.475,20009\n174,126.49,26167\n175,126.49,34839\n176,126.47,41159\n177,126.3675,65435\n178,126.418,29305\n179,126.4,31594\n180,126.44,39878\n181,126.43,39790\n182,126.43,23765\n183,126.44,29683\n184,126.425,35699\n185,126.42,36561\n186,126.425,31110\n187,126.43,31805\n188,126.44,81027\n189,126.37,66484\n190,126.39,137864\n191,126.45,117367\n192,126.44,126350\n193,126.455,170438\n194,126.44,160021\n195,126.51,1346921\n",_5Y:"EXCHANGE%3DNASDAQ\nMARKET_OPEN_MINUTE=570\nMARKET_CLOSE_MINUTE=960\nINTERVAL=604800\nCOLUMNS=DATE,CLOSE,VOLUME,CDAYS\nDATA=\nTIMEZONE_OFFSET=-240\na1337371200,38.2318,580587742,5\n1,31.91,431550301,5\n2,27.72,288823366,4\n3,27.1,203391748,5\n4,30.014,121584836,5\n5,33.05,186095247,5\n6,31.095,115051050,5\n7,31.73,43882668,4\n8,30.72,64513910,5\n9,28.76,97506481,5\n10,23.705,228859535,5\n11,21.09,267090993,5\n12,21.807,135511429,5\n13,19.05,398990654,5\n14,19.409,284154581,5\n15,18.058,151665960,5\n16,18.98,189842116,4\n17,22,334750931,5\n18,22.86,274676439,5\n19,21.66,259370396,5\n20,20.91,200027970,5\n21,19.5181,139346746,5\n22,19,173091101,5\n23,21.9425,489178692,5\n24,21.18,175436403,4\nTIMEZONE_OFFSET=-300\na1352494800,19.21,170816034,5\n1,23.5607,554914662,5\na1353693600,23.998,251059203,4\na1354309200,28,474636245,5\n1,27.485,353165957,5\n2,26.812,347094794,5\n3,26.26,269775364,5\n4,25.9112,161461834,4\n5,28.76,266075283,5\n6,31.72,419354668,5\n7,29.66,437349964,5\n8,31.54,202351553,5\n9,29.73,496940264,5\n10,28.545,250934860,5\n11,28.32,249748852,5\n12,27.13,177507485,5\n13,27.78,247675705,5\n14,27.96,225294314,5\nTIMEZONE_OFFSET=-240\na1363377600,26.645,162074835,5\n1,25.73,138706507,5\na1364500800,25.58,147039022,5\na1365192000,27.39,252180877,5\n1,27.4,156582218,5\n2,25.73,143552052,5\n3,26.85,120776748,5\n4,28.311,292777590,5\n5,26.68,184157413,5\n6,26.25,149268313,5\n7,24.3125,210403643,5\n8,24.348,210975383,5\n9,23.291,194322221,5\n10,23.63,176265793,5\n11,24.53,190755707,5\n12,24.88,226709033,5\n13,24.37,69609986,5\n14,25.91,127498860,5\n15,25.881,147921737,5\n16,34.01,640347443,5\n17,38.05,632421155,5\n18,38.5,297721259,5\n19,37.08,247325848,5\n20,40.55,270095045,5\n21,41.294,350814050,5\n22,43.95,258927756,5\n23,44.31,322849169,5\n24,47.49,421540032,5\n25,51.24,479545428,5\n26,51.04,417535815,5\n27,49.11,498784384,5\n28,54.22,374407362,5\n29,51.95,290506862,5\n30,49.75,646530350,5\nTIMEZONE_OFFSET=-300\na1383944400,47.53,392954357,5\n1,49.01,345920790,5\n2,46.23,290876540,5\n3,47.01,232528925,5\n4,47.94,230542423,5\n5,53.32,345674844,5\n6,55.12,569522765,5\n7,55.44,260481855,5\n8,54.557,193004772,5\n9,57.94,337982624,5\n10,56.3,209911105,5\n11,54.45,213771768,5\n12,62.57,458966258,5\n13,64.32,277192811,5\n14,67.09,235693074,5\n15,68.59,310156568,5\n16,68.46,293138094,5\n17,69.8,258826175,5\nTIMEZONE_OFFSET=-240\na1394827200,67.72,271283396,5\n1,67.24,241484211,5\n2,60.01,431872368,5\n3,56.749,387904132,5\n4,58.53,493978387,5\na1397764800,58.94,347761176,5\na1398456000,57.71,448830555,5\n1,60.46,396025765,5\n2,57.24,294380378,5\n3,58.0199,249276561,5\n4,61.351,248451008,5\n5,63.3,191459998,5\n6,62.5,194520699,5\n7,64.5,236346217,5\n8,64.5,175042036,5\n9,67.6,230377808,5\na1404417600,66.29,127543350,5\na1405108800,66.34,232736654,5\n1,68.4199,193067538,5\n2,75.19,338456901,5\n3,72.36,207429823,5\n4,73.06,162091374,5\n5,73.63,142392002,5\n6,74.57,114568348,5\n7,74.82,128237731,5\n8,77.26,123520838,5\n9,77.48,145965645,5\n10,77.91,215817226,5\n11,78.79,165859360,5\n12,77.44,184848021,5\n13,72.91,168655529,5\n14,75.95,285636340,5\n15,80.67,176119376,5\n16,74.99,338314088,5\nTIMEZONE_OFFSET=-300\na1415394000,75.6,158123964,5\n1,74.88,112772187,5\n2,73.75,117054241,5\n3,77.7,103067656,5\n4,76.36,103950573,5\n5,77.83,144887247,5\n6,79.88,167712102,5\n7,80.775,69594459,5\n8,78.45,66723343,4\n9,77.74,121014772,5\n10,75.18,126213822,5\n11,77.83,84184312,4\n12,75.91,196620178,5\n13,74.47,125463907,5\n14,75.74,88739929,5\n15,79.895,130463696,4\n16,78.97,130481077,5\n17,80.005,120738510,5\nTIMEZONE_OFFSET=-240\na1426276800,78.05,96858473,5\n1,83.8,164953667,5\n2,83.3,148537384,5\na1428004800,81.555,85984183,5\na1428696000,82.04,83953727,5\n1,80.775,106892880,5\n2,81.53,204905012,5\n3,78.99,128786997,5\n4,78.51,105359358,5\n5,80.42,138179553,5\n6,80.54,95596648,5\n7,79.19,58598792,4\n8,82.14,105824275,5\n9,81.53,85018910,5\n10,82.51,100984807,5\n11,88.01,186937773,5\na1435867200,87.285,101359881,5\na1436558400,87.95,128648451,5\n1,94.97,163296841,5\n2,96.95,185477154,5\n3,94.01,271190062,5\n4,94.3,144762790,5\n5,94.42,104616983,5\n6,86.06,170321320,5\n7,91.01,252371664,5\n8,88.26,148708685,5\n9,92.05,106652903,4\n10,94.4,144576669,5\n11,92.77,144733781,5\n12,92.07,185558373,5\n13,93.24,120235608,5\n14,97.54,109561275,5\n15,102.19,144110475,5\n16,101.97,126278820,5\nTIMEZONE_OFFSET=-300\na1446843600,107.095,181490938,5\n1,103.95,125942567,5\n2,107.32,147032664,5\na1448647200,105.45,64259568,4\na1449262800,106.18,111480980,5\n1,102.12,103275988,5\n2,104.04,126762856,5\na1450980000,105.02,56847715,4\na1451595600,104.66,61755705,5\na1452286800,97.33,166646937,5\n1,94.97,185843410,5\n2,97.94,150403204,4\n3,112.21,276709956,5\n4,104.07,277505077,5\n5,102.01,258071741,5\n6,104.57,151002978,4\n7,107.92,151450223,5\n8,108.39,130786359,5\n9,109.41,122741858,5\nTIMEZONE_OFFSET=-240\na1458331200,111.45,119895975,5\na1458849600,113.05,72884859,5\na1459540800,116.06,130123517,5\n1,110.63,160406611,5\n2,109.64,203047127,5\n3,110.56,130978602,5\n4,117.58,210983579,5\n5,119.49,123111165,5\n6,119.81,105491823,5\n7,117.35,113375820,5\n8,119.38,92117167,5\n9,118.47,65940515,4\n10,116.62,76723361,5\n11,113.02,113036713,5\n12,112.08,111618013,5\n13,114.19,122364460,5\n14,117.24,73317421,4\n15,116.86,80362632,5\n16,121,98680184,5\n17,123.94,202768213,5\n18,125.15,108750605,5\n19,124.88,69413518,5\n20,123.56,71400800,5\n21,124.96,68175168,5\n22,126.51,73585720,5\n",corp_actions:"[]",related_items:[{ticker:"INDEXDJX:.DJI",name:"Dow Jones",timezone_offset:-18000,is_index:true,different_market_session:false},{ticker:"INDEXNASDAQ:.IXIC",name:"Nasdaq",timezone_offset:-18000,is_index:true,different_market_session:false},{ticker:"NASDAQ:MSFT",name:"MSFT",timezone_offset:-18000,is_index:false},{ticker:"NASDAQ:GOOGL",name:"GOOGL",timezone_offset:-18000,is_index:false},{ticker:"NYSE:TWTR",name:"TWTR",timezone_offset:-18000,is_index:false},{ticker:"NASDAQ:YHOO",name:"YHOO",timezone_offset:-18000,is_index:false},{ticker:"NASDAQ:MEET",name:"MEET",timezone_offset:-18000,is_index:false},{ticker:"NASDAQ:SINA",name:"SINA",timezone_offset:-18000,is_index:false},{ticker:"NYSE:LNKD",name:"LNKD",timezone_offset:-18000,is_index:false}]}};
+google.finance.data.numberFormat = [{'threshold':1000000, 'symbol':'M'}, {'threshold':1000000000,'symbol':'B'}, {'threshold':1000000000000,'symbol':'T'}] ;
+_setStickyUrlParams("ei=ZOvMV4jzOoHTmAHl3ZnIBg");
+if (_s_Store) {
+_s_Store._allowMatchAdvancedSearch = true;
+var _fieldToDisplayNameMap = {GrossMargin:"Gross margin&nbsp;(%)",Return1Week:"1w return",Return156Week:"156w return",NextYearEPS:"Next year EPS",LTDebtToAssetsYear:"LT debt/assets (Recent&nbsp;yr)&nbsp;(%)",RevenueGrowthRate5Years:"5y revenue growth rate",EarningsAfterTaxes:"Earnings after taxes",DividendPerShare:"Div per share",MarketCap:"Market cap",NetProfitMarginPercent:"Net profit margin&nbsp;(%)",Float:"Float",EarningsBeforeTaxes:"Earnings before taxes",QuotePercChange:"Quote change&nbsp;(%)",TotalDebtToEquityYear:"Total debt/equity (Recent&nbsp;yr)&nbsp;(%)",TotalDebtToCapitalQuarter:"Total debt/capital (Recent&nbsp;qtr)&nbsp;(%)",LTDebtToCapitalQuarter:"LT debt/capital (Recent&nbsp;qtr)&nbsp;(%)",EPSGrowthRate10Years:"10y EPS growth rate",Beta:"Beta",ReturnOnAssetsPTM:"Return on assets (PTM)&nbsp;(%)",CapitalGain:"Capital gain",BetaDown:"Beta down from RAS",IncomeDividend:"Income dividend",RevenueGrowthRate10Years:"10y revenue growth rate",MarketCapShareBasis:"Market cap share basis",IAD:"Div rate indicated annual",Return4Week:"4w return",Price150DayAverage:"150d avg price",EPSGrowthRate5Years:"5y EPS growth rate",ReturnOnAssetsTTM:"Return on assets (TTM)&nbsp;(%)",TotalDebtToAssetsYear:"Total debt/assets (Recent&nbsp;yr)&nbsp;(%)",Volume:"Volume",DividendRecentQuarter:"Div recent quarter",CurrentRatioYear:"Current ratio",Low52Week:"52w low",ExpenseRatio:"Expense ratio",Price13WeekPercChange:"13w&nbsp;price change&nbsp;(%)",Price1DayPercChange:"1d&nbsp;price change&nbsp;(%)",ReturnOnEquity5Years:"Return on equity (5&nbsp;yr&nbsp;avg)&nbsp;(%)",TotalDebtToCapitalYear:"Total debt/capital (Recent&nbsp;yr)&nbsp;(%)",TotalDebtToAssetsQuarter:"Total debt/assets (Recent&nbsp;qtr)&nbsp;(%)",NavChange:"Nav change",OperatingMargin:"Operating margin&nbsp;(%)",DPSRecentYear:"Div per share (Recent&nbsp;yr)",ANI:"Earnings after taxes (Recent&nbsp;yr)",AverageVolume:"Average volume",High52Week:"52w high",Return13Week:"13w return",PriceToCashFlowPerShare:"Price to cash flow per share",ATAXRATE:"Tax rate (Recent&nbsp;yr)",Price26WeekPercChange:"26w&nbsp;price change&nbsp;(%)",QuoteChange:"Quote change",NetIncomeChangePerc:"Net income change&nbsp;(%)",ReturnOnInvestment5Years:"Return on investment (5&nbsp;yr&nbsp;avg)&nbsp;(%)",PE:"P/E ratio",ReturnOnInvestmentYear:"Return on investment (Recent&nbsp;yr)&nbsp;(%)",Price200DayAverage:"200d avg price",DividendNextQuarter:"Div next quarter",EBITD:"EBITDA",PriceYTDPercChange:"YTD&nbsp;price change&nbsp;(%)",ReturnOnInvestmentTTM:"Return on investment (TTM)&nbsp;(%)",NavChangePercent:"Nav change&nbsp;(%)",EBITDMargin:"EBITDA margin&nbsp;(%)",LTDebtToEquityQuarter:"LT debt/equity (Recent&nbsp;qtr)&nbsp;(%)",BetaRAS:"Beta from RAS",PriceSales:"Price to sales",NetAssets:"Net assets",ReturnOnEquityTTM:"Return on equity (TTM)&nbsp;(%)",CashPerShareYear:"Cash/share",ReturnOnAssets5Years:"Return on assets (5&nbsp;yr&nbsp;avg)&nbsp;(%)",ReturnDay:"1d return",Return52Week:"52w return",ForwardPE1Year:"1y fwd P/E",NetIncomeGrowthRate5Years:"5y net income growth rate",DividendYield:"Div yield&nbsp;(%)",Dividend:"Div from cash flow",BetaUp:"Beta up from RAS",LTDebtToCapitalYear:"LT debt/capital (Recent&nbsp;yr)&nbsp;(%)",nprice:"Price from RAS",Return260Week:"260w return",ReturnOnEquityQuarter:"Return on equity (Recent&nbsp;qtr)&nbsp;(%)",ACOGS:"Cost of goods sold",LTDebtToAssetsQuarter:"LT debt/assets (Recent&nbsp;qtr)&nbsp;(%)",PriceToBook:"Price to book",LTDebtToEquityYear:"LT debt/equity (Recent&nbsp;yr)&nbsp;(%)",ReturnYTD:"Return YTD",ReturnOnEquityYear:"Return on equity (Recent&nbsp;yr)&nbsp;(%)",ReturnOnAssetsQuarter:"Return on assets (Recent&nbsp;qtr)&nbsp;(%)",TotalDebtToEquityQuarter:"Total debt/equity (Recent&nbsp;qtr)&nbsp;(%)",NavPrior:"Nav prior",AINTCOV:"Interest coverage",EPS:"EPS",ReturnOnInvestmentQuarter:"Return on investment (Recent&nbsp;qtr)&nbsp;(%)",QuoteLast:"Last price",Price50DayAverage:"50d avg price",Price4WeekPercChange:"4w&nbsp;price change&nbsp;(%)",ReturnOnAssetsYear:"Return on assets (Recent&nbsp;yr)&nbsp;(%)",MarketCapRAS:"Mkt cap from RAS",Price52WeekPercChange:"52w&nbsp;price change&nbsp;(%)",ShortInterestRatioPercent:"Short interest ratio&nbsp;(%)",InstitutionalPercentHeld:"Institutional percent held",BookValuePerShareYear:"Book value/share",ReturnOnEquityPTM:"Return on equity (PTM)&nbsp;(%)"};
+_s_Store._asStore._addStrings(_fieldToDisplayNameMap);
+}
+if (_s_Store) {
+_s_Store._allowMultipleInBox = true;
+}
+google.finance.renderRecentQuotes();
+</script>
+<div class="g-section g-tpl-right-1">
+<div class="g-unit g-first">
+<div class=g-c>
+<div id=r-perf class="g-section g-tpl-67-33 g-split nwp">
+<div id=r-perf-quotes class="id-r-perf-quotes g-unit g-first"></div>
+<div id=r-perf-charts class="id-r-perf-charts g-unit"></div>
+</div>
+<script>google.finance.renderRelativePerformance();</script>
+</div>
+</div>
+<div class=g-unit>
+<div id=market-data-div class="id-market-data-div nwp g-floatfix">
+<div id=price-panel class="id-price-panel goog-inline-block">
+<div>
+<span class="pr">
+<span id="ref_296878244325128_l">126.51</span>
+</span>
+<div class="id-price-change nwp">
+<span class="ch bld"><span class="chg" id="ref_296878244325128_c">+0.34</span>
+<span class="chg" id="ref_296878244325128_cp">(0.27%)</span>
+</span>
+</div>
+</div>
+<div>
+<span class=nwp>
+Sep 2 - Close
+</span>
+<div class=mdata-dis>
+<span class=dis-large><nobr>NASDAQ
+real-time data -
+<a href="//www.google.com/help/stock_disclaimer.html#realtime"  class=dis-large>Disclaimer</a>
+</nobr></span>
+<div>Currency in USD</div>
+</div>
+</div>
+</div>
+<div class="snap-panel-and-plusone">
+<div class="snap-panel">
+<table class="snap-data">
+<tr>
+<td class="key"
+          data-snapfield="range">Range
+</td>
+<td class="val">126.00 - 126.86
+</td>
+</tr>
+<tr>
+<td class="key"
+          data-snapfield="range_52week">52 week
+</td>
+<td class="val">85.72 - 128.33
+</td>
+</tr>
+<tr>
+<td class="key"
+          data-snapfield="open">Open
+</td>
+<td class="val">126.85
+</td>
+</tr>
+<tr>
+<td class="key"
+          data-snapfield="vol_and_avg">Vol / Avg.
+</td>
+<td class="val">0.00/19.80M
+</td>
+</tr>
+<tr>
+<td class="key"
+          data-snapfield="market_cap">Mkt cap
+</td>
+<td class="val">364.27B
+</td>
+</tr>
+<tr>
+<td class="key"
+          data-snapfield="pe_ratio">P/E
+</td>
+<td class="val">60.60
+</td>
+</tr></table><table class="snap-data">
+<tr>
+<td class="key"
+          data-snapfield="latest_dividend-dividend_yield">Div/yield
+</td>
+<td class="val">&nbsp;&nbsp;&nbsp;&nbsp;-
+</td>
+</tr>
+<tr>
+<td class="key"
+          data-snapfield="eps">EPS
+</td>
+<td class="val">2.09
+</td>
+</tr>
+<tr>
+<td class="key"
+          data-snapfield="shares">Shares
+</td>
+<td class="val">2.32B
+</td>
+</tr>
+<tr>
+<td class="key"
+          data-snapfield="beta">Beta
+</td>
+<td class="val">0.76
+</td>
+</tr>
+<tr>
+<td class="key"
+          data-snapfield="inst_own">Inst. own
+</td>
+<td class="val">72%
+</td>
+</tr>
+</table>
+</div>
+<div class="plusone-box" id="plusone-box">
+<g:plusone size="standard" source="google:FINANCE"></g:plusone></div>
+</div>
+</div>
+<script>google.finance.renderMarketData();</script>
+<div id="sharebox-data"
+     itemscope="itemscope"
+     itemtype="http://schema.org/Intangible/FinancialQuote">
+<meta itemprop="name"
+        content="Facebook Inc" />
+<meta itemprop="url"
+        content="https://www.google.com/finance?cid=296878244325128" />
+<meta itemprop="imageUrl"
+        content="https://www.google.com/finance/chart?cht=g&q=NASDAQ:FB&tkr=1&p=1d&enddatetime=2016-09-02T16:00:01Z" />
+<meta itemprop="tickerSymbol"
+        content="FB" />
+<meta itemprop="exchange"
+        content="NASDAQ" />
+<meta itemprop="exchangeTimezone"
+        content="America/New_York" />
+<meta itemprop="price"
+        content="126.51" />
+<meta itemprop="priceChange"
+        content="+0.34" />
+<meta itemprop="priceChangePercent"
+        content="0.27" />
+<meta itemprop="quoteTime"
+        content="2016-09-02T16:00:01Z" />
+<meta itemprop="dataSource"
+        content="NASDAQ real-time data" />
+<meta itemprop="dataSourceDisclaimerUrl"
+        content="//www.google.com/help/stock_disclaimer.html#realtime" />
+<meta itemprop="priceCurrency"
+        content="USD" />
+</div>
+</div>
+</div>
+<div class="g-section g-tpl-right-1 sfe-break-top-5">
+<div class="g-unit g-first">
+<div class=g-c><div>
+<div id=newstabsgroup>
+<div class="g-section g-tpl-25-75 g-split hdg">
+<div class="g-unit g-first">
+<h3>News</h3>
+</div>
+<div class=g-unit>
+<div id=news-panel-tabs class="id-news-tabs" style="display:none;">
+<div class="goog-tab goog-tab-selected">
+<a id=news_tab_title class=t>
+<b class=t><b class=t>Relevance</b></b></a>
+</div>
+<div class=goog-tab>
+<a id=news_by_date_tab_title class=t>
+<b class=t><b class=t>Date</b></b></a>
+</div>
+</div>
+</div>
+</div>
+<div id=tabs-clear class="id-tabs-clear goog-tab-bar-clear hide"></div>
+<div id=news_div_cont class=id-news_div_cont style="display:none;"></div>
+<div id=news_by_date_div_cont class=id-news_by_date_div_cont style="display:none;"></div>
+</div>
+<div class="sfe-section clf" id=news-footer>
+<div id=news-sidebar-footer class="g-section g-tpl-67-33 g-split">
+<div class="g-unit g-first">
+<a href="/finance/company_news?q=NASDAQ:FB&amp;ei=ZOvMV4jzOoHTmAHl3ZnIBg" >All news for Facebook Inc &raquo;</a>
+</div><div class=g-unit>
+<a href="/finance/company_news?q=NASDAQ:FB&amp;ei=ZOvMV4jzOoHTmAHl3ZnIBg&output=rss">Subscribe</a>
+<a href="/finance/company_news?q=NASDAQ:FB&amp;ei=ZOvMV4jzOoHTmAHl3ZnIBg&output=rss"><img class=SP_subscribe src="/finance/s/m4C5KaofCbA/images/cleardot.gif" alt="Subscribe." id=rss
+        width=15 height=15 /></a>
+</div>
+</div>
+</div>
+</div>
+<div id=ad class="sfe-break-top sfe-break-bottom-16">
+<div id=ad-label
+                       class="id-ad-label invisible">Advertisement</div>
+<div id=ad-target class="id-ad-target ads-300-250"></div>
+</div>
+<div class="g-section g-tpl-25-75 g-split hdg">
+<div class="g-unit g-first">
+<h3>Events</h3>
+</div>
+<div class="g-unit">
+<div class=sfe-break-right-em>
+<img src="/finance/s/m4C5KaofCbA/images/cleardot.gif"
+               width=16 height=16 class=SP_calendar id=calendar alt="">
+<a onclick="_GF_click('', 'add_ical', 'FB', '')" href="//www.google.com/calendar/render?ei=ZOvMV4jzOoHTmAHl3ZnIBg&hl=en&cid=http://www.google.com:80%2Ffinance%2Fevents%3Fq%3DNASDAQ%3AFB%26output%3Dical" >Add FB to my calendars</a>
+</div>
+</div>
+</div>
+<div class="events sfe-section">
+<div class=event>
+<div class="bld date">Nov 2, 2016</div>
+<div>Q3 2016 Facebook Inc Earnings Release (Estimated)
+- <span class=time>4:00PM EDT</span> -
+<a onclick="_GF_click('', 'add_cal_evnt', 'FB', '')" href= "
+  //www.google.com/calendar/event?ei=ZOvMV4jzOoHTmAHl3ZnIBg&hl=en&action=TEMPLATE&text=Q3+2016+Facebook+Inc+Earnings+Release+(Estimated)&dates=20161102T200000Z/20161102T210000Z&sprop=finance"  class=time>
+<img alt="Add to calendar" src="/finance/s/m4C5KaofCbA/images/cleardot.gif"
+                width=16 height=16 class=SP_calendar id=calendar>
+</a>
+</div>
+</div>
+<div class=event>
+<div class="bld date">Jul 27, 2016</div>
+<div>Q2 2016 Facebook Inc Earnings Call -
+<a onclick="_GF_click('', 'webcast', 'FB', '')" href=//www.google.com/url?source=finance&q=http%3A%2F%2Fedge.media-server.com%2Fm%2Fp%2Fs4g5rjyo&ei=ZOvMV4jzOoHTmAHl3ZnIBg&usg=AFQjCNG4W_3CQNnPS1lCYO00xd0vfXkjsw  class=time>
+<img alt="Webcast" src="/finance/s/m4C5KaofCbA/images/cleardot.gif"
+                width=19 height=16 class=SP_webcast id=webcast>
+</a>
+</div>
+</div>
+<div class=event>
+<div class="bld date">Jul 27, 2016</div>
+<div>Q2 2016 Facebook Inc Earnings Release
+</div>
+</div>
+<div class=event>
+<div class="bld date">Jun 20, 2016</div>
+<div>Facebook Inc Annual Shareholders Meeting
+</div>
+</div>
+<div class=event>
+<div class="bld date">Jun 10, 2016</div>
+<div>Facebook Inc Annual Shareholders Meeting (Estimated)
+</div>
+</div>
+<table><tr>
+<td>
+<a href="//www.google.com/url?source=finance&q=http%3A%2F%2Fwww.dailyfinance.com%2Fevent%2FFB%2Fusa&ei=ZOvMV4jzOoHTmAHl3ZnIBg&usg=AFQjCNHBm71UefiK6NH3CVkWaJBvROMLgA" >
+More events from DailyFinance &raquo;</a>&nbsp;
+&nbsp;&nbsp;<nobr>
+</td>
+</tr></table>
+</div>
+<div class=hdg><h3>Key stats and ratios</h3></div>
+<div class=sfe-section>
+<table class="quotes rgt nwp" width="100%">
+<thead><tr>
+<td width=50%>
+<td class=colHeader>Q2 (Jun &#39;16)
+<td class=colHeader>2015
+</tr></thead>
+<tr>
+<td class="lft name">Net profit margin
+<td class=period>31.93%
+<td class=period>20.57%
+<tr>
+<td class="lft name">Operating margin
+<td class=period>42.67%
+<td class=period>34.72%
+<tr>
+<td class="lft name">EBITD margin
+<td class=period>-
+<td class=period>45.60%
+<tr>
+<td class="lft name">Return on average assets
+<td class=period>15.29%
+<td class=period>8.25%
+<tr>
+<td class="lft name">Return on average equity
+<td class=period>16.84%
+<td class=period>9.14%
+<tr>
+<td class="lft name">Employees
+<td class=period>14,495
+<td class=period>-
+<tr>
+<td class="lft name">CDP Score
+<td class=period>-
+<td class=period>
+-
+</table>
+<div class=sfe-break-top>
+<a id="similar" href="/finance/similar?q=NASDAQ:FB&amp;ei=ZOvMV4jzOoHTmAHl3ZnIBg" >Screen stocks with similar metrics &raquo;</a></div>
+</div>
+<div class=hdg><h3>Address</h3></div>
+<div class=sfe-section>1601 Willow Rd<br/>MENLO PARK, CA 94025-1452<br/>United States
+- <a href="http://maps.google.com/maps?ei=ZOvMV4jzOoHTmAHl3ZnIBg&q=1601+Willow+Rd+MENLO+PARK+94025-1452+United+States%20(Facebook+Inc)" >Map</a><br/>+1-650-6187714 (Phone)<br>+1-302-6365454 (Fax)<br>
+</div>
+<div class=hdg><h3>Website links</h3></div>
+<div class=sfe-section><div class=item>
+<a id=fs-chome href="//www.google.com/url?source=finance&q=http%3A%2F%2Fwww.facebook.com%2F&ei=ZOvMV4jzOoHTmAHl3ZnIBg&usg=AFQjCNFDvwbaJX7btMh9vcztxc3A1iGFVA" >
+http://www.facebook.com/
+</a>
+</div>
+</div>
+<div class=hdg><h3>External links</h3></div>
+<div class=sfe-section>
+<div class=item><a id=m-analyst
+                 href=//www.google.com/url?source=finance&q=http%3A%2F%2Fwww.marketwatch.com%2Finvesting%2Fstock%2FFB%2Fanalystestimates&ei=ZOvMV4jzOoHTmAHl3ZnIBg&usg=AFQjCNEQ4ceFk5DPREi6RdHeBa6u4IXE1Q >Analyst Estimates</a> - <font color="#6F6F6F">MarketWatch</font></div>
+<div class=item><a id=m-sec
+                 href=//www.google.com/url?source=finance&q=http%3A%2F%2Fgoogle.brand.edgar-online.com%3Fsym%3DFB&ei=ZOvMV4jzOoHTmAHl3ZnIBg&usg=AFQjCNGgw8UiZ2ohyygLw4DO39mEUzty8w >SEC Filings</a> - <font color="#6F6F6F">EDGAR Online</font></div>
+<div class=item><a id=m-hold
+                 href=//www.google.com/url?source=finance&q=http%3A%2F%2Finvesting.money.msn.com%2Finvestments%2Finstitutional-ownership%3Fsymbol%3DFB&ei=ZOvMV4jzOoHTmAHl3ZnIBg&usg=AFQjCNHG9wtBuaPlH_Q7xdiVshIYFXbrJQ >Major Holders</a> - <font color="#6F6F6F">MSN Money</font></div>
+<div class=item><a id=m-research
+                 href=//www.google.com/url?source=finance&q=https%3A%2F%2Fcommerce.us.reuters.com%2Fpurchase%2FadvancedSearch.do%3Fsymbol%3DFB.O%26rpc%3D68&ei=ZOvMV4jzOoHTmAHl3ZnIBg&usg=AFQjCNFEw17ZLbErvOYZvbDi2gNOM8ywMQ >Research Reports</a> - <font color="#6F6F6F">Reuters</font></div>
+</div>
+</div>
+</div>
+<div class=g-unit>
+<div id=top-section class="g-c sfe-break-right">
+<div id=chart-section>
+<div>
+<div id=compare-bar-wrapper class=id-compare-bar-wrapper>
+<div id=compare-bar class="id-compare-bar g-section">
+</div>
+</div>
+<div id=chart_anchor class=id-chart_anchor></div>
+<div class=id-chart-footer>
+<div class="g-section g-tpl-67-33 g-split sfe-break-bottom-8 overflow-floatfix">
+<div class="g-unit g-first"><div class="id-chart-footer-links hide">
+<span class=settings-link>Settings</span> |
+<span class=technicals-link>Technicals</span> |
+<span style="white-space:nowrap;">
+<img width="16" hight="9" alt="Link to chart icon."
+            class="linktochart-img SP_link"
+            src="/finance/s/m4C5KaofCbA/images/cleardot.gif" />
+<span class=linktochart-link>
+Link to this view</span>
+</span>
+</div></div>
+<div class="g-unit">
+<span class="chart-dis">Volume delayed by 15 mins.<br>Prices are not from all markets.<br>Sources include SIX.<br>
+</span>
+</div>
+</div>
+</div>
+<script>
+var _minZoomDays = 1;
+var _minZoomDaysNoIntraDay = _minZoomDays;
+var _timeZoneOffset = '-18000';
+_chartConfigObject = {};
+_chartConfigObject.hasVolume = _displayVolume;
+_chartConfigObject.hasNews = true;
+_chartConfigObject.hasExtendedHours = true;
+_chartConfigObject.hasDefaultZoomSetting = true;
+_chartConfigObject.hasVerticalScaleSetting = true;
+_chartConfigObject.displayVolume = 'true';
+_chartConfigObject.displayNewsPins = 'true';
+_chartConfigObject.displayDividends = 'true';
+_chartConfigObject.displaySplits = 'true';
+_chartConfigObject.displayExtendedHours = 'false';
+_chartConfigObject.enableCustomDateEntry = true
+_chartConfigObject.defaultZoomDays = '3';
+_chartConfigObject.snapping = false;
+_chartConfigObject.verticalScaling = 'maximized';
+_chartConfigObject.sparklineType = 'dynamic';
+// set _minZoomDays and _minZoomDaysNoIntraDay in each page before emit the
+// chart to passing the value to chart, otherwise default value will be use.
+_chartConfigObject.minZoomDaysNormal = _minZoomDays;
+_chartConfigObject.minZoomDaysNoIntraDay = _minZoomDaysNoIntraDay;
+_chartConfigObject.enableIndicator = true;
+_chartConfigObject.companyId = '296878244325128';
+_chartConfigObject.enableRealtimeChart = true;
+_chartConfigObject.isMarketOpenState = 0;
+_chartConfigObject.stateRemainingMinutes = 12;
+_chartConfigObject.delayedMinutes = 0;
+_chartConfigObject.delayedMinutes = Math.max(
+_chartConfigObject.delayedMinutes,
+15);
+_chartConfigObject.enableChartTypeSetting = true;
+_chartConfigObject.lineStyle = 'IntervalBasedLine';
+_chartConfigObject.defaultInterval = '86400';
+_chartConfigObject.enableIndicatorSetting = true;
+_chartConfigObject.biasSetting = '';
+_chartConfigObject.emaSetting = '';
+_chartConfigObject.kdjSetting = '';
+_chartConfigObject.macdSetting = '';
+_chartConfigObject.rsiSetting = '';
+_chartConfigObject.smaSetting = '';
+_chartConfigObject.vmaSetting = '';
+_chartConfigObject.cciSetting = '';
+_chartConfigObject.williamsPercentRSetting = '';
+_chartConfigObject.bollingerBandsSetting = '';
+_chartConfigObject.fastStochasticSetting = '';
+_chartConfigObject.slowStochasticSetting = '';
+_chartConfigObject.expandButtonEnabled = true;
+_chartConfigObject.companyCurrency = 'USD';
+_chartConfigObject.displayDividendsUnits = 'true';
+_external_target = "";
+_emitFlashChart(
+"/finance/s/n-VxNKK74DU/chart9.swf?hl=en&gl=us",
+_ticker, _chartConfigObject,"http:\x2F\x2Fwww.google.com:80");
+</script>
+<noscript>
+<div id=image_chart style="display:block;">
+<table>
+<tr><td class=itxt align=left>
+</td></tr>
+<tr><td>
+<img alt="Chart." src="/finance/getchart?q=FB&x=NASD&p=3d&i=240&ei=ZOvMV4jzOoHTmAHl3ZnIBg" width="500" height="322">
+</td></tr>
+</table>
+</div>
+</noscript>
+<div style="height:1em;"></div>
+</div>
+</div>
+<div id=ad2>
+<div id=ad2-label class=invisible>Advertisement</div>
+<div id=ad2-target class=id-ad2-target></div>
+</div>
+</div>
+<div class="g-c sfe-break-right">
+<div id=related class="id-related hide">
+<div class=hdg>
+<div class=float>
+<h3>Related companies</h3>
+</div>
+</div>
+<div>
+<div class="g-section g-tpl-50-50 g-split gf-control">
+<div class="g-unit g-first">
+Show:
+<select id=related-select class=id-related-select>
+<option value=mrq >
+Most Recent Quarter
+</option>
+<option value=mra selected>
+Most Recent Annual
+</option>
+</select>
+</div>
+<div class=g-unit>
+<span class="id-related-edit-col linkbtn">Add or remove columns</span>
+<button class=id-related-save style="display:none">Save changes</button>
+<button class=id-related-cancel style="display:none">Cancel</button>
+</div>
+</div>
+</div>
+<div class="id-related-table gf-table-scroll-x jfk-scrollbar"
+       style="padding-bottom:15px;">
+</div>
+<div class=sfe-section>
+<div class="g-section g-tpl-50-50 g-split">
+<div class="g-unit g-first">Sector: <a id=sector href="?catid=us-TRBC:57&amp;ei=ZOvMV4jzOoHTmAHl3ZnIBg" >Technology</a> &gt; Industry: <a href="?catid=us-TRBC:5720103012&amp;ei=ZOvMV4jzOoHTmAHl3ZnIBg" >Social Media &amp; Networking</a>
+</div><div class=g-unit>
+<a href="//www.google.com/url?source=finance&q=http%3A%2F%2Fwww.factset.com%2Fdata%2Ffactset_data%2Findustry-and-sector&ei=ZOvMV4jzOoHTmAHl3ZnIBg&usg=AFQjCNG4e7k59XCsB348nRSQ-ONjSCsT-A" >More from FactSet &raquo;</a>
+</div>
+</div>
+</div>
+</div>
+<div id=reorder class=id-reorder><div class=mid-reorder>
+<div id=blogs-section
+>
+</div>
+<div id=summary-section
+>
+<div id=summary>
+<div class=hdg><div class=float>
+<h3>Description</h3></div>
+<div class="gf-reorder-btn SP_menu_button"></div>
+</div>
+<div class=sfe-section>
+<div class=companySummary>
+Facebook, Inc. builds products that enable people to connect and share through mobile devices and personal computers. The Company enables people to share their opinions, ideas, photos and videos, and other activities. Its products include Facebook, Instagram, Messenger, WhatsApp and Oculus. Facebook is a mobile application and Website that enables people to connect, share, discover and communicate with each other on mobile devices and personal computers. Instagram is a mobile application that enables people to take photos or videos, customize them with filter effects, and share them with friends and followers in a photo feed or send them to friends. Messenger is a messaging application available for mobile and Web on various platforms and devices. WhatsApp Messenger is a mobile messaging application that is used by people around the world. Oculus virtual reality technology and content platform allows people to play games, consume content and connect with others.
+<div class=sfe-break-top>
+<a id=m-rprofile href=//www.google.com/url?source=finance&q=http%3A%2F%2Fstocks.us.reuters.com%2Fstocks%2FfullDescription.asp%3Frpc%3D66%26symbol%3DFB.O&ei=ZOvMV4jzOoHTmAHl3ZnIBg&usg=AFQjCNFPQePStZHGwhaRPEDldlMYzwLRXw >
+More from Reuters &raquo;
+</a></div>
+</div>
+</div>
+</div>
+</div><script>_tck('aft');</script>
+<div id=mgmt-section
+>
+<div id=management style="margin-bottom:1.5em;">
+<div class=hdg><div class=float>
+<h3>Officers and directors</h3></div>
+<div class="gf-reorder-btn SP_menu_button"></div>
+</div>
+<div class=sfe-section>
+<table class=id-mgmt-table width=100%><tbody>
+<tr >
+<td class="p linkbtn">Mark Zuckerberg
+<td class=i>
+<td class=t>Chairman of the Board, Chief Executive Officer
+</tr>
+<tr style="display:none;">
+<td><img width=1 height=1 border=0 align=right>
+<td class=i>
+<td class=t>
+Age: 30<br>
+<a class=e-p href=//www.google.com/url?source=finance&q=http%3A%2F%2Fwww.reuters.com%2Ffinance%2Fstocks%2FofficerProfile%3Fsymbol%3DFB.O%26officerId%3D1684645&ei=ZOvMV4jzOoHTmAHl3ZnIBg&usg=AFQjCNEVNlMTCn-UbFHskqHRiFQF1XzWeA >
+Bio&nbsp;&amp;&nbsp;Compensation
+</a>&nbsp;-&nbsp;<font color="#606060">Reuters</font><br>
+<tr class=grey-top>
+<td class="p linkbtn">David M. Wehner
+<td class=i>
+<td class=t>Chief Financial Officer
+</tr>
+<tr style="display:none;">
+<td><img width=1 height=1 border=0 align=right>
+<td class=i>
+<td class=t>
+Age: 46<br>
+<a class=e-p href=//www.google.com/url?source=finance&q=http%3A%2F%2Fwww.reuters.com%2Ffinance%2Fstocks%2FofficerProfile%3Fsymbol%3DFB.O%26officerId%3D2502019&ei=ZOvMV4jzOoHTmAHl3ZnIBg&usg=AFQjCNGtJ-E8kIF2hvUTtKL_Zg9zRuVBFQ >
+Bio&nbsp;&amp;&nbsp;Compensation
+</a>&nbsp;-&nbsp;<font color="#606060">Reuters</font><br>
+<tr class=grey-top>
+<td class="p linkbtn">Sheryl K. Sandberg
+<td class=i>
+<td class=t>Chief Operating Officer, Director
+</tr>
+<tr style="display:none;">
+<td><img width=1 height=1 border=0 align=right>
+<td class=i>
+<td class=t>
+Age: 46<br>
+<a class=e-p href=//www.google.com/url?source=finance&q=http%3A%2F%2Fwww.reuters.com%2Ffinance%2Fstocks%2FofficerProfile%3Fsymbol%3DFB.O%26officerId%3D1684650&ei=ZOvMV4jzOoHTmAHl3ZnIBg&usg=AFQjCNFUEP6cY27-ttOqrUVGrE-VCJRyNw >
+Bio&nbsp;&amp;&nbsp;Compensation
+</a>&nbsp;-&nbsp;<font color="#606060">Reuters</font><br>
+<tr class=grey-top>
+<td class="p linkbtn">Michael Todd Schroepfer
+<td class=i>
+<td class=t>Chief Technology Officer, Vice President - Engineering
+</tr>
+<tr style="display:none;">
+<td><img width=1 height=1 border=0 align=right>
+<td class=i>
+<td class=t>
+Age: 40<br>
+<a class=e-p href=//www.google.com/url?source=finance&q=http%3A%2F%2Fwww.reuters.com%2Ffinance%2Fstocks%2FofficerProfile%3Fsymbol%3DFB.O%26officerId%3D1684668&ei=ZOvMV4jzOoHTmAHl3ZnIBg&usg=AFQjCNGVyXc-TL5AJXd7SqDTJTUYu5J6WA >
+Bio&nbsp;&amp;&nbsp;Compensation
+</a>&nbsp;-&nbsp;<font color="#606060">Reuters</font><br>
+<tr class=grey-top>
+<td class="p linkbtn">Colin S Stretch
+<td class=i>
+<td class=t>Vice President, General Counsel, Secretary
+</tr>
+<tr style="display:none;">
+<td><img width=1 height=1 border=0 align=right>
+<td class=i>
+<td class=t>
+Age: 45<br>
+<a class=e-p href=//www.google.com/url?source=finance&q=http%3A%2F%2Fwww.reuters.com%2Ffinance%2Fstocks%2FofficerProfile%3Fsymbol%3DFB.O%26officerId%3D2405889&ei=ZOvMV4jzOoHTmAHl3ZnIBg&usg=AFQjCNG2PbB4N4fuiOq-GeG95oviUmkPDg >
+Bio&nbsp;&amp;&nbsp;Compensation
+</a>&nbsp;-&nbsp;<font color="#606060">Reuters</font><br>
+<tr class=grey-top>
+<td class="p linkbtn">David B. Fischer
+<td class=i>
+<td class=t>Vice President - Business and Marketing Partnerships
+</tr>
+<tr style="display:none;">
+<td><img width=1 height=1 border=0 align=right>
+<td class=i>
+<td class=t>
+Age: 42<br>
+<a class=e-p href=//www.google.com/url?source=finance&q=http%3A%2F%2Fwww.reuters.com%2Ffinance%2Fstocks%2FofficerProfile%3Fsymbol%3DFB.O%26officerId%3D1684662&ei=ZOvMV4jzOoHTmAHl3ZnIBg&usg=AFQjCNHqWh2G4EOeuW-M1GWjIEDwGf17KQ >
+Bio&nbsp;&amp;&nbsp;Compensation
+</a>&nbsp;-&nbsp;<font color="#606060">Reuters</font><br>
+<tr class=grey-top>
+<td class="p linkbtn">Christopher K. Cox
+<td class=i>
+<td class=t>Chief Product Officer
+</tr>
+<tr style="display:none;">
+<td><img width=1 height=1 border=0 align=right>
+<td class=i>
+<td class=t>
+Age: 32<br>
+<a class=e-p href=//www.google.com/url?source=finance&q=http%3A%2F%2Fwww.reuters.com%2Ffinance%2Fstocks%2FofficerProfile%3Fsymbol%3DFB.O%26officerId%3D2505337&ei=ZOvMV4jzOoHTmAHl3ZnIBg&usg=AFQjCNEe1E5loVuquoHgmMsWDkZpx7VtpQ >
+Bio&nbsp;&amp;&nbsp;Compensation
+</a>&nbsp;-&nbsp;<font color="#606060">Reuters</font><br>
+<tr class=grey-top>
+<td class="p linkbtn">Donald E. Graham
+<td class=i>
+<td class=t>Lead Independent Director
+</tr>
+<tr style="display:none;">
+<td><img width=1 height=1 border=0 align=right>
+<td class=i>
+<td class=t>
+Age: 70<br>
+<a class=e-p href=//www.google.com/url?source=finance&q=http%3A%2F%2Fwww.reuters.com%2Ffinance%2Fstocks%2FofficerProfile%3Fsymbol%3DFB.O%26officerId%3D1684622&ei=ZOvMV4jzOoHTmAHl3ZnIBg&usg=AFQjCNHCyudXuF31DhQo9txU8eUB6B37GA >
+Bio&nbsp;&amp;&nbsp;Compensation
+</a>&nbsp;-&nbsp;<font color="#606060">Reuters</font><br>
+<tr class=grey-top>
+<td class="p linkbtn">Jan Koum
+<td class=i>
+<td class=t>Director
+</tr>
+<tr style="display:none;">
+<td><img width=1 height=1 border=0 align=right>
+<td class=i>
+<td class=t>
+Age: 39<br>
+<a class=e-p href=//www.google.com/url?source=finance&q=http%3A%2F%2Fwww.reuters.com%2Ffinance%2Fstocks%2FofficerProfile%3Fsymbol%3DFB.O%26officerId%3D2612418&ei=ZOvMV4jzOoHTmAHl3ZnIBg&usg=AFQjCNGAFpzYoIJqYzuQibZB11jeJjMVxw >
+Bio&nbsp;&amp;&nbsp;Compensation
+</a>&nbsp;-&nbsp;<font color="#606060">Reuters</font><br>
+<tr class=grey-top>
+<td class="p linkbtn">Marc L. Andreessen
+<td class=i>
+<td class=t>Independent Director
+</tr>
+<tr style="display:none;">
+<td><img width=1 height=1 border=0 align=right>
+<td class=i>
+<td class=t>
+Age: 44<br>
+<a class=e-p href=//www.google.com/url?source=finance&q=http%3A%2F%2Fwww.reuters.com%2Ffinance%2Fstocks%2FofficerProfile%3Fsymbol%3DFB.O%26officerId%3D1684630&ei=ZOvMV4jzOoHTmAHl3ZnIBg&usg=AFQjCNHlOO4xjV0ieD52TbDlmMzli6vCEw >
+Bio&nbsp;&amp;&nbsp;Compensation
+</a>&nbsp;-&nbsp;<font color="#606060">Reuters</font><br>
+</table>
+<div class=gb>
+<a href="//www.google.com/url?source=finance&q=http%3A%2F%2Fstocks.us.reuters.com%2Fstocks%2FofficersDirectors.asp%3Fsymbol%3DFB.O%26WTmodLOC%3DC4-Officers-5&ei=ZOvMV4jzOoHTmAHl3ZnIBg&usg=AFQjCNGhPgo02GVeTElOgpRD4R-O4c_swQ" >
+Full list on Reuters &raquo;</a></div>
+</div>
+</div>
+</div>
+</div></div>
+</div>
+</div>
+</div>
+</div>
+</div></div></div></div></div><div id=gf-foot><div id=fjfe-edition-links class=fjfe-footer-links>Google Finance Beta available in: <a href="http://www.google.com.hk/finance?ei=ZOvMV4jzOoHTmAHl3ZnIBg" class="fjfe-edition-link">Hong Kong</a> - <a href="http://www.google.ca/finance?ei=ZOvMV4jzOoHTmAHl3ZnIBg" class="fjfe-edition-link">Canada</a> - <a href="http://www.google.com/finance?ei=ZOvMV4jzOoHTmAHl3ZnIBg" class="fjfe-edition-link">U.S.</a> - <a href="http://www.google.com.hk/finance?hl=zh-CN&ei=ZOvMV4jzOoHTmAHl3ZnIBg" class="fjfe-edition-link">China</a> - <a href="http://www.google.co.uk/finance?ei=ZOvMV4jzOoHTmAHl3ZnIBg" class="fjfe-edition-link">U.K.</a></div><p class=fjfe-footer-disclaimer>Information is provided "as is" and solely for informational purposes, not for trading purposes or advice, and may be delayed.<br>To see all exchange delays, please <a href="http://www.google.com/intl/en/googlefinance/disclaimer/?ei=ZOvMV4jzOoHTmAHl3ZnIBg" class="fjfe-secondary-link fjfe-no-sticky-params"> see disclaimer</a>.</p><div class=fjfe-footer-links>&copy;2016 Google - <a href="http://www.google.com?hl=en&ei=ZOvMV4jzOoHTmAHl3ZnIBg">Google Home</a> - <a href="http://googlefinanceblog.blogspot.com?ei=ZOvMV4jzOoHTmAHl3ZnIBg">Blog</a> - <a href="http://support.google.com/finance?hl=en&ei=ZOvMV4jzOoHTmAHl3ZnIBg">Help</a> - <a href="http://support.google.com/finance?ctx=report&hl=en&ei=ZOvMV4jzOoHTmAHl3ZnIBg&exch=NASDAQ&sym=FB">Report a Problem</a> - <a href="http://www.google.com/intl/en/policies/privacy/?ei=ZOvMV4jzOoHTmAHl3ZnIBg">Privacy Policy</a> - <a href="http://www.google.com/intl/en/policies/terms/?ei=ZOvMV4jzOoHTmAHl3ZnIBg">Terms of Service</a></div></div>
+<script>
+var _chartConfigObject;
+var _cleardot;
+var _companyName;
+var _eventid = 'ZOvMV4jzOoHTmAHl3ZnIBg';
+var _expid;
+var _external_target;
+var _localDomain = 'www.google.com';
+var _minZoomDays;
+var _minZoomDaysNoIntraDay;
+var _prefs;
+var _ticker;
+var _urlSuffix;
+_setStickyUrlParams("ei=ZOvMV4jzOoHTmAHl3ZnIBg");
+if (_s_Store) {
+_s_Store._allowMatchAdvancedSearch = true;
+var _fieldToDisplayNameMap = {GrossMargin:"Gross margin&nbsp;(%)",Return1Week:"1w return",Return156Week:"156w return",NextYearEPS:"Next year EPS",LTDebtToAssetsYear:"LT debt/assets (Recent&nbsp;yr)&nbsp;(%)",RevenueGrowthRate5Years:"5y revenue growth rate",EarningsAfterTaxes:"Earnings after taxes",DividendPerShare:"Div per share",MarketCap:"Market cap",NetProfitMarginPercent:"Net profit margin&nbsp;(%)",Float:"Float",EarningsBeforeTaxes:"Earnings before taxes",QuotePercChange:"Quote change&nbsp;(%)",TotalDebtToEquityYear:"Total debt/equity (Recent&nbsp;yr)&nbsp;(%)",TotalDebtToCapitalQuarter:"Total debt/capital (Recent&nbsp;qtr)&nbsp;(%)",LTDebtToCapitalQuarter:"LT debt/capital (Recent&nbsp;qtr)&nbsp;(%)",EPSGrowthRate10Years:"10y EPS growth rate",Beta:"Beta",ReturnOnAssetsPTM:"Return on assets (PTM)&nbsp;(%)",CapitalGain:"Capital gain",BetaDown:"Beta down from RAS",IncomeDividend:"Income dividend",RevenueGrowthRate10Years:"10y revenue growth rate",MarketCapShareBasis:"Market cap share basis",IAD:"Div rate indicated annual",Return4Week:"4w return",Price150DayAverage:"150d avg price",EPSGrowthRate5Years:"5y EPS growth rate",ReturnOnAssetsTTM:"Return on assets (TTM)&nbsp;(%)",TotalDebtToAssetsYear:"Total debt/assets (Recent&nbsp;yr)&nbsp;(%)",Volume:"Volume",DividendRecentQuarter:"Div recent quarter",CurrentRatioYear:"Current ratio",Low52Week:"52w low",ExpenseRatio:"Expense ratio",Price13WeekPercChange:"13w&nbsp;price change&nbsp;(%)",Price1DayPercChange:"1d&nbsp;price change&nbsp;(%)",ReturnOnEquity5Years:"Return on equity (5&nbsp;yr&nbsp;avg)&nbsp;(%)",TotalDebtToCapitalYear:"Total debt/capital (Recent&nbsp;yr)&nbsp;(%)",TotalDebtToAssetsQuarter:"Total debt/assets (Recent&nbsp;qtr)&nbsp;(%)",NavChange:"Nav change",OperatingMargin:"Operating margin&nbsp;(%)",DPSRecentYear:"Div per share (Recent&nbsp;yr)",ANI:"Earnings after taxes (Recent&nbsp;yr)",AverageVolume:"Average volume",High52Week:"52w high",Return13Week:"13w return",PriceToCashFlowPerShare:"Price to cash flow per share",ATAXRATE:"Tax rate (Recent&nbsp;yr)",Price26WeekPercChange:"26w&nbsp;price change&nbsp;(%)",QuoteChange:"Quote change",NetIncomeChangePerc:"Net income change&nbsp;(%)",ReturnOnInvestment5Years:"Return on investment (5&nbsp;yr&nbsp;avg)&nbsp;(%)",PE:"P/E ratio",ReturnOnInvestmentYear:"Return on investment (Recent&nbsp;yr)&nbsp;(%)",Price200DayAverage:"200d avg price",DividendNextQuarter:"Div next quarter",EBITD:"EBITDA",PriceYTDPercChange:"YTD&nbsp;price change&nbsp;(%)",ReturnOnInvestmentTTM:"Return on investment (TTM)&nbsp;(%)",NavChangePercent:"Nav change&nbsp;(%)",EBITDMargin:"EBITDA margin&nbsp;(%)",LTDebtToEquityQuarter:"LT debt/equity (Recent&nbsp;qtr)&nbsp;(%)",BetaRAS:"Beta from RAS",PriceSales:"Price to sales",NetAssets:"Net assets",ReturnOnEquityTTM:"Return on equity (TTM)&nbsp;(%)",CashPerShareYear:"Cash/share",ReturnOnAssets5Years:"Return on assets (5&nbsp;yr&nbsp;avg)&nbsp;(%)",ReturnDay:"1d return",Return52Week:"52w return",ForwardPE1Year:"1y fwd P/E",NetIncomeGrowthRate5Years:"5y net income growth rate",DividendYield:"Div yield&nbsp;(%)",Dividend:"Div from cash flow",BetaUp:"Beta up from RAS",LTDebtToCapitalYear:"LT debt/capital (Recent&nbsp;yr)&nbsp;(%)",nprice:"Price from RAS",Return260Week:"260w return",ReturnOnEquityQuarter:"Return on equity (Recent&nbsp;qtr)&nbsp;(%)",ACOGS:"Cost of goods sold",LTDebtToAssetsQuarter:"LT debt/assets (Recent&nbsp;qtr)&nbsp;(%)",PriceToBook:"Price to book",LTDebtToEquityYear:"LT debt/equity (Recent&nbsp;yr)&nbsp;(%)",ReturnYTD:"Return YTD",ReturnOnEquityYear:"Return on equity (Recent&nbsp;yr)&nbsp;(%)",ReturnOnAssetsQuarter:"Return on assets (Recent&nbsp;qtr)&nbsp;(%)",TotalDebtToEquityQuarter:"Total debt/equity (Recent&nbsp;qtr)&nbsp;(%)",NavPrior:"Nav prior",AINTCOV:"Interest coverage",EPS:"EPS",ReturnOnInvestmentQuarter:"Return on investment (Recent&nbsp;qtr)&nbsp;(%)",QuoteLast:"Last price",Price50DayAverage:"50d avg price",Price4WeekPercChange:"4w&nbsp;price change&nbsp;(%)",ReturnOnAssetsYear:"Return on assets (Recent&nbsp;yr)&nbsp;(%)",MarketCapRAS:"Mkt cap from RAS",Price52WeekPercChange:"52w&nbsp;price change&nbsp;(%)",ShortInterestRatioPercent:"Short interest ratio&nbsp;(%)",InstitutionalPercentHeld:"Institutional percent held",BookValuePerShareYear:"Book value/share",ReturnOnEquityPTM:"Return on equity (PTM)&nbsp;(%)"};
+_s_Store._asStore._addStrings(_fieldToDisplayNameMap);
+}
+if (_s_Store) {
+_s_Store._allowMultipleInBox = true;
+}
+_regOnLoad(onCompanyLoad);
+</script>
+</div></div><script>var googlefinance = {i: ["f.b.id","",null,0,"",0,null,["f.b.cf","0md5hz5pgeA.en_US.",0],[],1,[],"ZOvMV4jzOoHTmAHl3ZnIBg","www.google.com","HuUuibD7Td7aMhFgbWtaMVz-w5U:1473047397132",1]}; GF_domReady = 1;</script></body></html>
